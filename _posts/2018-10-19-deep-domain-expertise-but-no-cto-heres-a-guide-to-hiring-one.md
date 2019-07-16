@@ -51,7 +51,7 @@ The major issue with this approach is that there is a much higher chance of maki
 
 The last approach I can recommend is to lower the bar a little bit, and hire a person with less experience but a ton of potential. This is someone you might not be ready to put in a CTO role yet, but who you could see filling a CTO role within a couple of years. Someone smart and driven and very enthusiastic about what you're building.
 
-You might hire this type of person as a full co-founder who takes a bunch of risk with you and gets a good share of equity, or you might hire them more as an &#8220;employee number one,&#8221; paying them close to market rate for their experience level and giving them a good amount of stock options.
+You might hire this type of person as a full co-founder who takes a bunch of risk with you and gets a good share of equity, or you might hire them more as an "employee number one," paying them close to market rate for their experience level and giving them a good amount of stock options.
 
 This could be somebody straight out of university, or somebody with a couple of years experience under their belt. It's probably not going to be somebody who is already an expert in your domain.
 
@@ -61,7 +61,7 @@ I've witnessed first-hand how this type of hire can become a full-fledged CTO ov
 
 ## You need a bullshit detector
 
-In the situation described above, the current founders are not technical. Whenever you're non-technical and are hiring for an important technical role, it's very important to get the help of an experienced technical person you trust to act as a &#8220;bullshit detector&#8221; for whoever you've short listed. Ideally you would get somebody you trust, who would be a fit for the CTO position (but who isn't available or willing to join a startup), and ask for their time to do 2-3 technical interviews once you've done the first round of interviews.
+In the situation described above, the current founders are not technical. Whenever you're non-technical and are hiring for an important technical role, it's very important to get the help of an experienced technical person you trust to act as a "bullshit detector" for whoever you've short listed. Ideally you would get somebody you trust, who would be a fit for the CTO position (but who isn't available or willing to join a startup), and ask for their time to do 2-3 technical interviews once you've done the first round of interviews.
 
 ## Summary
 

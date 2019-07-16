@@ -203,8 +203,8 @@ If you're pitching to investors, the call to action should be to ask questions, 
 
 For a different crowd, try different CTAs. For example, if you're in front of a large audience at a startup conference during a pitch competition, and your startup is all about a mobile game, you could end with this call to action:
 
-  1. &#8220;Alright everybody, can I ask you for a favor? Take your smartphone out of your pocket.&#8221; (wait for most people to do it)
-  2. &#8220;Now that it's out of your pocket, you're just three clicks away from installing NameOfMyGame. It's available on the App Store and Google Play, why not install it now?&#8221;
+  1. "Alright everybody, can I ask you for a favor? Take your smartphone out of your pocket." (wait for most people to do it)
+  2. "Now that it's out of your pocket, you're just three clicks away from installing NameOfMyGame. It's available on the App Store and Google Play, why not install it now?"
 
 ## My presentation
 
