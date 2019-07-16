@@ -7,7 +7,7 @@ layout: revision
 guid: http://joisig.com/?p=45
 permalink: /44-revision-v1/
 ---
-For the last three summers, I&#8217;ve participated as a mentor in the <a href="http://www.startupreykjavik.com/" target="_blank">Startup Reykjavik</a> accelerator programme. Today, I was honoured to be voted by the 2014 alumni as startup of the year for last summer&#8217;s programme.
+For the last three summers, I've participated as a mentor in the <a href="http://www.startupreykjavik.com/" target="_blank">Startup Reykjavik</a> accelerator programme. Today, I was honoured to be voted by the 2014 alumni as startup of the year for last summer's programme.
 
 I was asked to give a short speech for the occasion, for the mentors who are participating in the Startup Iceland accelerator this summer. I gave the speech in Icelandic, and it is available in its original form <a href="https://docs.google.com/document/d/1BUL5dE4WNPyk7xaMyca9Hj0gfgqQOYsxhk845DbfvjM/edit?usp=sharing" target="_blank">here</a>. What follows is an English translation:
 

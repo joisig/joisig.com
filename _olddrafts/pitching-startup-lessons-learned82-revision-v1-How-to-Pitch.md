@@ -9,7 +9,7 @@ permalink: /82-revision-v1/
 ---
 # How to pitch
 
-I was recently asked to give a talk on how to pitch a startup, and I figured since I&#8217;m building a deck and gathering resources for the talk, why not write it up as well.
+I was recently asked to give a talk on how to pitch a startup, and I figured since I'm building a deck and gathering resources for the talk, why not write it up as well.
 
 I’m far from the biggest pitching expert in the world, but I’ve pitched [CrankWheel](http://crankwheel.com/?ref=startupresources) on stage at multiple conferences around the world, and I’ve won pitching competitions a couple of times. I’ve also been angel investing for the last 5 years, so I’ve seen my fair share of both good and bad pitch decks.
 
@@ -48,11 +48,11 @@ Follow [Guy Kawasaki’s 10/20/30 advice](https://guykawasaki.com/the-only-10-sl
 
 Practice your pitch until you can deliver it without reading from any notes, and with maximum emotional impact.
 
-I am dead serious about this. When people get up on stage and the pressure builds and they want to deliver their pitch but haven&#8217;t practised enough, I&#8217;ve seen very bad things happen.
+I am dead serious about this. When people get up on stage and the pressure builds and they want to deliver their pitch but haven't practised enough, I've seen very bad things happen.
 
 Ideally, you should be able to give a perfect rendition of your pitch while a friend stands in front of you, screaming insults, jokes and math quizzes in your face.
 
-Personally, I spend hours perfecting my delivery, and even for a pitch I&#8217;ve delivered a few times before, I still need a couple of hours to refresh my memory so I can deliver it just right.
+Personally, I spend hours perfecting my delivery, and even for a pitch I've delivered a few times before, I still need a couple of hours to refresh my memory so I can deliver it just right.
 
 ## Emotional hooks
 
@@ -66,10 +66,10 @@ If it’s something they may not have directly experienced, you can do the same 
 
 ### Advanced: Directly give them an experience
 
-Even better is if you can directly give them an experience during your pitch that lets them connect on an emotional level then and there. I&#8217;ll give you a couple of examples from some of my own pitches of [CrankWheel](http://crankwheel.com/?ref=startupresources):
+Even better is if you can directly give them an experience during your pitch that lets them connect on an emotional level then and there. I'll give you a couple of examples from some of my own pitches of [CrankWheel](http://crankwheel.com/?ref=startupresources):
 
-  1. I gave a pitch where I was highlighting the fact that being able to quickly [show things visually](http://crankwheel.com/ready-in-seconds/?ref=startupresources) can really help you communicate better over the phone. To give them the emotional connection, early on in the pitch I asked the audience to close their eyes. I then proceeded to try to describe the clothes I was wearing. About 10 seconds in, I asked them to open their eyes, and to notice that now that they can actually see what I&#8217;m wearing, it both takes much less time than listening to me describe it, and they have a much more correct understanding.
-  2. Another pitch I did was to illustrate the importance of being able to [get software demos instantly](http://crankwheel.com/instant-demos/?ref=startupresources), instead of waiting for days. At the start of this pitch, I told the audience &#8220;I know you&#8217;re ready and interested in hearing my pitch&#8221;, and asked them if they&#8217;d like to go ahead. When they said yes, I told them &#8220;OK, just fill in this simple form (while showing a form with 15 fields on it), and I&#8217;ll get back to you within a couple of days to book a meeting where you can get to hear my pitch.&#8221; Right then and there, they&#8217;ve experienced how silly and frustrating it is when you visit a website and want to know about some piece of software, to have to request a demo and only get more information days from now.
+  1. I gave a pitch where I was highlighting the fact that being able to quickly [show things visually](http://crankwheel.com/ready-in-seconds/?ref=startupresources) can really help you communicate better over the phone. To give them the emotional connection, early on in the pitch I asked the audience to close their eyes. I then proceeded to try to describe the clothes I was wearing. About 10 seconds in, I asked them to open their eyes, and to notice that now that they can actually see what I'm wearing, it both takes much less time than listening to me describe it, and they have a much more correct understanding.
+  2. Another pitch I did was to illustrate the importance of being able to [get software demos instantly](http://crankwheel.com/instant-demos/?ref=startupresources), instead of waiting for days. At the start of this pitch, I told the audience &#8220;I know you're ready and interested in hearing my pitch&#8221;, and asked them if they'd like to go ahead. When they said yes, I told them &#8220;OK, just fill in this simple form (while showing a form with 15 fields on it), and I'll get back to you within a couple of days to book a meeting where you can get to hear my pitch.&#8221; Right then and there, they've experienced how silly and frustrating it is when you visit a website and want to know about some piece of software, to have to request a demo and only get more information days from now.
 
 ## Parts of a pitch
 
@@ -88,11 +88,11 @@ A typical investor pitch should cover roughly the following areas, often in roug
  11. Investment ask
  12. Contact details
 
-These definitely don&#8217;t all need to be stand-alone slides. For a pitch deck you&#8217;re presenting, you&#8217;ll not want to drown your audience in details on each slide either.
+These definitely don't all need to be stand-alone slides. For a pitch deck you're presenting, you'll not want to drown your audience in details on each slide either.
 
-This is just a rough order you can work with, but you can definitely change it around. For example, if your team doesn&#8217;t consist of industry veterans with a proven track record, then you might not want to make that slide number two. Get to your strengths and your &#8220;wow factor&#8221; as quickly as you can in the deck.
+This is just a rough order you can work with, but you can definitely change it around. For example, if your team doesn't consist of industry veterans with a proven track record, then you might not want to make that slide number two. Get to your strengths and your &#8220;wow factor&#8221; as quickly as you can in the deck.
 
-Let&#8217;s look at pitch deck slides from some well-known companies as examples of each part of the pitch:
+Let's look at pitch deck slides from some well-known companies as examples of each part of the pitch:
 
 ### 1. The elevator pitch
 

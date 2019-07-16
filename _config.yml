@@ -1,3 +1,8 @@
 url: https://joisig.com
 name: joisig gone awol
-description: 'Jói Sigurdsson&#039;s post-employment adventures'
+description: Jói Sigurdsson's post-employment adventures
+
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed

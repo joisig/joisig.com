@@ -25,7 +25,7 @@ protected by applicable copyright and trade mark law.
 
 <ol type="a">
   <li>
-    Permission is granted to temporarily download one copy of the materials<br /> (information or software) on Jói Sigurðsson&#8217;s web site for personal,<br /> non-commercial transitory viewing only. This is the grant of a license,<br /> not a transfer of title, and under this license you may not:</p> <ol type="i">
+    Permission is granted to temporarily download one copy of the materials<br /> (information or software) on Jói Sigurðsson's web site for personal,<br /> non-commercial transitory viewing only. This is the grant of a license,<br /> not a transfer of title, and under this license you may not:</p> <ol type="i">
       <li>
         modify or copy the materials;
       </li>
@@ -33,7 +33,7 @@ protected by applicable copyright and trade mark law.
         use the materials for any commercial purpose, or for any public display (commercial or non-commercial);
       </li>
       <li>
-        attempt to decompile or reverse engineer any software contained on Jói Sigurðsson&#8217;s web site;
+        attempt to decompile or reverse engineer any software contained on Jói Sigurðsson's web site;
       </li>
       <li>
         remove any copyright or other proprietary notations from the materials; or
@@ -53,21 +53,21 @@ protected by applicable copyright and trade mark law.
 
 <ol type="a">
   <li>
-    The materials on Jói Sigurðsson&#8217;s web site are provided &#8220;as is&#8221;. Jói Sigurðsson makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties, including without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights. Further, Jói Sigurðsson does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on its Internet web site or otherwise relating to such materials or on any sites linked to this site.
+    The materials on Jói Sigurðsson's web site are provided &#8220;as is&#8221;. Jói Sigurðsson makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties, including without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights. Further, Jói Sigurðsson does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on its Internet web site or otherwise relating to such materials or on any sites linked to this site.
   </li>
 </ol>
 
 ### 4. Limitations
 
-In no event shall Jói Sigurðsson or its suppliers be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption,) arising out of the use or inability to use the materials on Jói Sigurðsson&#8217;s Internet site, even if Jói Sigurðsson or a Jói Sigurðsson authorized representative has been notified orally or in writing of the possibility of such damage. Because some jurisdictions do not allow limitations on implied warranties, or limitations of liability for consequential or incidental damages, these limitations may not apply to you.
+In no event shall Jói Sigurðsson or its suppliers be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption,) arising out of the use or inability to use the materials on Jói Sigurðsson's Internet site, even if Jói Sigurðsson or a Jói Sigurðsson authorized representative has been notified orally or in writing of the possibility of such damage. Because some jurisdictions do not allow limitations on implied warranties, or limitations of liability for consequential or incidental damages, these limitations may not apply to you.
 
 ### 5. Revisions and Errata
 
-The materials appearing on Jói Sigurðsson&#8217;s web site could include technical, typographical, or photographic errors. Jói Sigurðsson does not warrant that any of the materials on its web site are accurate, complete, or current. Jói Sigurðsson may make changes to the materials contained on its web site at any time without notice. Jói Sigurðsson does not, however, make any commitment to update the materials.
+The materials appearing on Jói Sigurðsson's web site could include technical, typographical, or photographic errors. Jói Sigurðsson does not warrant that any of the materials on its web site are accurate, complete, or current. Jói Sigurðsson may make changes to the materials contained on its web site at any time without notice. Jói Sigurðsson does not, however, make any commitment to update the materials.
 
 ### 6. Links
 
-Jói Sigurðsson has not reviewed all of the sites linked to its Internet web site and is not responsible for the contents of any such linked site. The inclusion of any link does not imply endorsement by Jói Sigurðsson of the site. Use of any such linked web site is at the user&#8217;s own risk.
+Jói Sigurðsson has not reviewed all of the sites linked to its Internet web site and is not responsible for the contents of any such linked site. The inclusion of any link does not imply endorsement by Jói Sigurðsson of the site. Use of any such linked web site is at the user's own risk.
 
 ### 7. Site Terms of Use Modifications
 
@@ -75,7 +75,7 @@ Jói Sigurðsson may revise these terms of use for its web site at any time with
 
 ### 8. Governing Law
 
-Any claim relating to Jói Sigurðsson&#8217;s web site shall be governed by the laws of the State of Iceland without regard to its conflict of law provisions.
+Any claim relating to Jói Sigurðsson's web site shall be governed by the laws of the State of Iceland without regard to its conflict of law provisions.
 
 General Terms and Conditions applicable to Use of a Web Site.
 

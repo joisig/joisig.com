@@ -11,9 +11,9 @@ permalink: /82-revision-v1/
 
 # How to pitch
 
-I was recently asked to give a talk on how to pitch a startup, and I figured since I’m building a deck and gathering resources for the talk, why not write it up as a blog post. You&#8217;ll find the presentation near the bottom of the post.
+I was recently asked to give a talk on how to pitch a startup, and I figured since I’m building a deck and gathering resources for the talk, why not write it up as a blog post. You'll find the presentation near the bottom of the post.
 
-I’m far from the biggest pitching expert in the world, but I’ve pitched [CrankWheel](http://crankwheel.com/?ref=startupresources) on stage at multiple conferences around the world, I’ve won pitching competitions a couple of times, I&#8217;ve pitched to many investors, and I&#8217;ve mentored a lot of startups, so I&#8217;ve seen my share of both good and bad pitches.
+I’m far from the biggest pitching expert in the world, but I’ve pitched [CrankWheel](http://crankwheel.com/?ref=startupresources) on stage at multiple conferences around the world, I’ve won pitching competitions a couple of times, I've pitched to many investors, and I've mentored a lot of startups, so I've seen my share of both good and bad pitches.
 
 ## Why pitch?
 
@@ -173,7 +173,7 @@ In my opinion the best thing to show on the business model/financials slide is:
   1. How you make your money, i.e. who pays you and for what. This isn’t always obvious in the case of marketplaces, social networks, educational apps and many other types of business, so it should typically be spelled out.
   2. That your unit economics are solid: The lifetime value of a user/customer greatly exceeds the typical acquisition cost of a user/customer. You should ideally already have shown in your traction slide that you are able to grow your user/customer base fast.
 
-Here&#8217;s how Buffer showed this:
+Here's how Buffer showed this:
 
 ![](http://startupresources.io/images/how-to-pitch-10.jpg "Buffer's original business model slide") 
 
@@ -195,18 +195,18 @@ If you want folks to be able to contact you after your presentation, you’d bet
 
 ## The call-to-action
 
-Whenever you&#8217;re in front of an audience, always take that opportunity to leave them with a call to action.
+Whenever you're in front of an audience, always take that opportunity to leave them with a call to action.
 
-If you&#8217;re pitching to investors, the call to action should be to ask questions, get in touch, and ultimately invest in your startup.
+If you're pitching to investors, the call to action should be to ask questions, get in touch, and ultimately invest in your startup.
 
-For a different crowd, try different CTAs. For example, if you&#8217;re in front of a large audience at a startup conference during a pitch competition, and your startup is all about a mobile game, you could end with this call to action:
+For a different crowd, try different CTAs. For example, if you're in front of a large audience at a startup conference during a pitch competition, and your startup is all about a mobile game, you could end with this call to action:
 
   1. &#8220;Alright everybody, can I ask you for a favor? Take your smartphone out of your pocket.&#8221; (wait for most people to do it)
-  2. &#8220;Now that it&#8217;s out of your pocket, you&#8217;re just three clicks away from installing NameOfMyGame. It&#8217;s available on the App Store and Google Play, why not install it now?&#8221;
+  2. &#8220;Now that it's out of your pocket, you're just three clicks away from installing NameOfMyGame. It's available on the App Store and Google Play, why not install it now?&#8221;
 
 ## My presentation
 
-Here are all the slides from my presentation, unfortunately they don&#8217;t quite look right because of a font my slides used that Slideshare doesn&#8217;t seem to like. If you click through and view notes you&#8217;ll see my speaker notes as well.
+Here are all the slides from my presentation, unfortunately they don't quite look right because of a font my slides used that Slideshare doesn't seem to like. If you click through and view notes you'll see my speaker notes as well.
 
 
 

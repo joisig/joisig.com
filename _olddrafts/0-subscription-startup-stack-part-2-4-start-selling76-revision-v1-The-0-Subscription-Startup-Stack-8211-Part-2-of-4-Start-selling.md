@@ -1,6 +1,6 @@
 ---
 id: 80
-title: 'The $0 Subscription Startup Stack &#8211; Part 2 of 4: Start selling'
+title: 'The $0 Subscription Startup Stack – Part 2 of 4: Start selling'
 date: 2017-08-14T13:32:13+00:00
 author: joisig
 layout: revision
@@ -11,7 +11,7 @@ permalink: /76-revision-v1/
   <img title="piggy bank on whiteboard" src="http://localhost:4000/images/piggyhand.png" alt="" />
 </div>
 
-# The $0 Subscription Startup Stack &#8211; Part 2 of 4: Start selling
+# The $0 Subscription Startup Stack – Part 2 of 4: Start selling
 
 In <a href="http://startupresources.io/blog/the-zero-subscription-startup-stack-part-one/" target="_blank" rel="noopener">part 1</a> of this 4-part series, we covered tools you can get for your startup for no fixed subscription, to help you ideate, validate your idea, build your product, and run it.
 
@@ -19,11 +19,11 @@ The second and third parts will talk about what is arguably the most important t
 
 We’ll start with sales in this second installment, then go on to marketing in part 3. The fourth and final installment will talk about all the other stuff you need for your startup: Legal, accounting, fundraising, customer support, and more.
 
-As before, any tool or service in this article has a zero-subscription tier, either free or freemium. In some cases, I make recommendations for paid tools above a free alternative, when there are high costs to switching later, and certain services that can&#8217;t be found free but are available without a fixed monthly fee may also be included.
+As before, any tool or service in this article has a zero-subscription tier, either free or freemium. In some cases, I make recommendations for paid tools above a free alternative, when there are high costs to switching later, and certain services that can't be found free but are available without a fixed monthly fee may also be included.
 
 My recent background is from my B2B SaaS startup <a href="http://crankwheel.com/?ref=startupresources" target="_blank" rel="noopener">CrankWheel</a>, so this and the next installment will be significantly slanted to the type of sales and marketing you do for a startup like that, but many or most of the tools and approaches will be relevant for most types of startups.
 
-![hands shaking on a deal](http://localhost:4000/images/handshakedeal.png) 
+![hands shaking on a deal](http://localhost:4000/images/handshakedeal.png)
 
 ## Sales first
 
@@ -39,7 +39,7 @@ A lot of startups, particularly those who start off by bootstrapping, are lookin
 
 Before we start the hustle, we need to know:
 
-![businessman drawing circle around diagram of people](http://localhost:4000/images/know-customers.jpeg) 
+![businessman drawing circle around diagram of people](http://localhost:4000/images/know-customers.jpeg)
 
 ## Who are your customers?
 
@@ -85,7 +85,7 @@ Now let’s look at how you can sell, depending on your CLTV:
 
 At the higher levels of CLTV, you can employ all the tactics that you can at lower levels, it’s just that you can also do more and it’ll still be worth it. At the lowest level, you can’t afford a dedicated salesforce and your revenue is mostly driven by marketing, onboarding, and helping customers be successful. At the highest level, in the early days it’s all about the hustle, and later on you can afford to get some high-priced sales consultant to help you devise some clever processes (not me!). Therefore, I’ll mostly focus on the middle-of-the-range Inside Sales type of sales process and tools in the sections below. This type of sales also what I know most about.
 
-![a diagram of various tools working together](http://localhost:4000/images/prospecting.jpg) 
+![a diagram of various tools working together](http://localhost:4000/images/prospecting.jpg)
 
 ## Prospecting for outbound leads
 
@@ -113,7 +113,7 @@ Both Hunter and Anymail Finder will also let you search for all the known emails
 
 If you’re selling to companies that use a specific technology, you can try <a href="https://siftery.com/" target="_blank" rel="noopener">Siftery</a> or <a href="https://builtwith.com/" target="_blank" rel="noopener">Builtwith</a> (both free) to find such companies. <a href="https://techlookup.hunter.io/" target="_blank" rel="noopener">Hunter TechLookup</a> is another one that will let you find websites using one or more specific technologies, and also filter by language and popularity.
 
-![screenshot of Gmail login page](http://localhost:4000/images/gmail.jpg) 
+![screenshot of Gmail login page](http://localhost:4000/images/gmail.jpg)
 
 ## Email for Sales
 
@@ -158,7 +158,7 @@ One such tool that does have a free tier is <a href="https://www.ifnoreply.com/
 
 A simple and robust tool that I’ve used is <a href="https://mailshake.com/" target="_blank" rel="noopener">Mailshake</a>, but it does not have a free tier or even a trial (they do offer a money-back guarantee though). Just like <a href="https://www.ifnoreply.com/" target="_blank" rel="noopener">If No Reply</a>, it connects with your Gmail or G Suite account.
 
-## Tracking Prospects &#8211; CRMs
+## Tracking Prospects – CRMs
 
 If you’ve ever read about modern sales, you will probably have heard of tools called CRMs, or Customer Relationship Management tools. <a href="https://www.salesforce.com/" target="_blank" rel="noopener">Salesforce</a> is the most famous of these, and some folks say that if you’re an aspiring SaaS company, that’s what you should use, not necessarily because it’s the best but you’ll get insight into the product built by the biggest SaaS company in the world, and can learn from that.
 
@@ -168,9 +168,9 @@ That said, Salesforce is expensive and time consuming to deploy and it’s certa
 
 I’ve used <a href="http://www.shareasale.com/r.cfm?B=856895&U=1190181&M=65450&urllink=" target="_blank" rel="noopener">AgileCRM</a> which is very full featured and flexible and has a free plan for up to 10 people. Just beware that for some of their built-in functionality, you may be 10x better served with a more focused solution; for example, I found it 10x easier to work with MailChimp for drip campaigns than using AgileCRM’s built-in functionality for that.
 
-I’ve heard very good things about <a href="https://www.hubspot.com/products/crm" target="_blank" rel="noopener">Hubspot CRM</a>, which has a free version, and also a <a href="https://www.hubspot.com/startups" target="_blank" rel="noopener">“scholarship” program for startups</a> which is basically a 90% discount. In conjunction with <a href="https://www.hubspot.com/products/sales" target="_blank" rel="noopener">Hubspot Sales</a> (which also has a free version) it looks very powerful, letting you create sequences that can include emails and phone calls, and letting you call straight from your browser (although you’ll need the paid version for that &#8211; I’m assuming you might want to call for more than 15 minutes a month, which is what’s included in the free plan, just a taste).
+I’ve heard very good things about <a href="https://www.hubspot.com/products/crm" target="_blank" rel="noopener">Hubspot CRM</a>, which has a free version, and also a <a href="https://www.hubspot.com/startups" target="_blank" rel="noopener">“scholarship” program for startups</a> which is basically a 90% discount. In conjunction with <a href="https://www.hubspot.com/products/sales" target="_blank" rel="noopener">Hubspot Sales</a> (which also has a free version) it looks very powerful, letting you create sequences that can include emails and phone calls, and letting you call straight from your browser (although you’ll need the paid version for that – I’m assuming you might want to call for more than 15 minutes a month, which is what’s included in the free plan, just a taste).
 
-![diagram showing inbound inside sales](http://localhost:4000/images/inbound-inside-sales.jpg) 
+![diagram showing inbound inside sales](http://localhost:4000/images/inbound-inside-sales.jpg)
 
 ## The Inbound Side of Inside Sales
 
@@ -238,7 +238,7 @@ Lead information is stored in the system itself, sent by email to agents, and ca
 
 OK enough with my tiny sales pitch, hope you’ll excuse that and go <a href="http://crankwheel.com/?ref=startupresources" target="_blank" rel="noopener">try CrankWheel out for yourself</a> or <a href="https://meeting.is/ss/showu/cw" target="_blank" rel="noopener">request a demo</a>.
 
-![diagram of people at a conference](http://localhost:4000/images/conference.jpg) 
+![diagram of people at a conference](http://localhost:4000/images/conference.jpg)
 
 ## Get out there in the world!
 
@@ -250,8 +250,8 @@ One thing I think a lot of startups don’t do enough of is to go to industry-fo
 
 We’ve talked about why sales can be more important than marketing at an early stage, the importance of finding your ideal customers, and what kind of approach you should use to sell. We’ve then covered a lot of Inside Sales tools such as prospecting, email tools, CRMs and tools for the inbound funnel in Inside Sales.
 
-The next installment, our third, will cover marketing &#8211; how to help your prospective customers find your product or service, and how to convince them to engage with you and eventually buy.
+The next installment, our third, will cover marketing – how to help your prospective customers find your product or service, and how to convince them to engage with you and eventually buy.
 
-Our fourth and final installment will cover other stuff you need to build and run a startup &#8211; customer support, billing, legal, funding and more.
+Our fourth and final installment will cover other stuff you need to build and run a startup – customer support, billing, legal, funding and more.
 
 I hope you’ve enjoyed this installment. I’d love to hear your feedback, just <a href="mailto:info@startupresources.io" target="_blank" rel="noopener">email me</a>.

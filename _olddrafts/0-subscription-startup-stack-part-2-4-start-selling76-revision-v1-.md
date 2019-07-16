@@ -161,7 +161,7 @@ permalink: /76-revision-v1/
 
 <span style="font-weight: 400;">A simple and robust tool that I’ve used is </span>[<span style="font-weight: 400;">Mailshake</span>](https://mailshake.com/)<span style="font-weight: 400;">, but it does not have a free tier or even a trial (they do offer a money-back guarantee though). Just like </span>[<span style="font-weight: 400;">If No Reply</span>](https://www.ifnoreply.com/)<span style="font-weight: 400;">, it connects with your Gmail or G Suite account.</span>
 
-## <span style="font-weight: 400;">Tracking Prospects &#8211; CRMs</span>
+## <span style="font-weight: 400;">Tracking Prospects – CRMs</span>
 
 <span style="font-weight: 400;">If you’ve ever read about modern sales, you will probably have heard of tools called CRMs, or Customer Relationship Management tools. </span>[<span style="font-weight: 400;">Salesforce</span>](https://www.salesforce.com/) <span style="font-weight: 400;">is the most famous of these, and some folks say that if you’re an aspiring SaaS company, that’s what you should use, not necessarily because it’s the best but you’ll get insight into the product built by the biggest SaaS company in the world, and can learn from that.</span>
 
@@ -171,7 +171,7 @@ permalink: /76-revision-v1/
 
 <span style="font-weight: 400;">I’ve used </span>[<span style="font-weight: 400;">AgileCRM</span>](http://www.shareasale.com/r.cfm?B=856895&U=1190181&M=65450&urllink=) <span style="font-weight: 400;">which is very full featured and flexible and has a free plan for up to 10 people. Just beware that for some of their built-in functionality, you may be 10x better served with a more focused solution; for example, I found it 10x easier to work with MailChimp for drip campaigns than using AgileCRM’s built-in functionality for that.</span>
 
-<span style="font-weight: 400;">I’ve heard very good things about </span>[<span style="font-weight: 400;">Hubspot CRM</span>](https://www.hubspot.com/products/crm)<span style="font-weight: 400;">, which has a free version, and also a </span>[<span style="font-weight: 400;">“scholarship” program for startups</span>](https://www.hubspot.com/startups) <span style="font-weight: 400;">which is basically a 90% discount. In conjunction with </span>[<span style="font-weight: 400;">Hubspot Sales</span>](https://www.hubspot.com/products/sales) <span style="font-weight: 400;">(which also has a free version) it looks very powerful, letting you create sequences that can include emails and phone calls, and letting you call straight from your browser (although you’ll need the paid version for that &#8211; I’m assuming you might want to call for more than 15 minutes a month, which is what’s included in the free plan, just a taste).</span>
+<span style="font-weight: 400;">I’ve heard very good things about </span>[<span style="font-weight: 400;">Hubspot CRM</span>](https://www.hubspot.com/products/crm)<span style="font-weight: 400;">, which has a free version, and also a </span>[<span style="font-weight: 400;">“scholarship” program for startups</span>](https://www.hubspot.com/startups) <span style="font-weight: 400;">which is basically a 90% discount. In conjunction with </span>[<span style="font-weight: 400;">Hubspot Sales</span>](https://www.hubspot.com/products/sales) <span style="font-weight: 400;">(which also has a free version) it looks very powerful, letting you create sequences that can include emails and phone calls, and letting you call straight from your browser (although you’ll need the paid version for that – I’m assuming you might want to call for more than 15 minutes a month, which is what’s included in the free plan, just a taste).</span>
 
 ## <span style="font-weight: 400;">The Inbound Side of Inside Sales</span>
 
@@ -261,8 +261,8 @@ permalink: /76-revision-v1/
 
 <span style="font-weight: 400;">We’ve talked about why sales can be more important than marketing at an early stage, the importance of finding your ideal customers, and what kind of approach you should use to sell. We’ve then covered a lot of Inside Sales tools such as prospecting, email tools, CRMs and tools for the inbound funnel in Inside Sales.</span>
 
-<span style="font-weight: 400;">The next installment, our third, will cover marketing &#8211; how to help your prospective customers find your product or service, and how to convince them to engage with you and eventually buy.</span>
+<span style="font-weight: 400;">The next installment, our third, will cover marketing – how to help your prospective customers find your product or service, and how to convince them to engage with you and eventually buy.</span>
 
-<span style="font-weight: 400;">Our fourth and final installment will cover other stuff you need to build and run a startup &#8211; customer support, billing, legal, funding and more.</span>
+<span style="font-weight: 400;">Our fourth and final installment will cover other stuff you need to build and run a startup – customer support, billing, legal, funding and more.</span>
 
 <span style="font-weight: 400;">I hope you’ve enjoyed this installment. I’d love to hear your feedback, just </span>[<span style="font-weight: 400;">email me</span>](mailto:info@startupresources.io)<span style="font-weight: 400;">.</span>
