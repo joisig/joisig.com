@@ -71,7 +71,7 @@ DEPENDENCIES
   jekyll-feed
   jekyll-seo-tag
   jekyll-sitemap
-  minima
+  minima (~> 2.5)
 
 BUNDLED WITH
    1.16.0
