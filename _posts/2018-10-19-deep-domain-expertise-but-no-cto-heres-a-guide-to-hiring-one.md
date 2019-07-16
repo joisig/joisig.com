@@ -9,7 +9,8 @@ permalink: /deep-domain-expertise-but-no-cto-heres-a-guide-to-hiring-one/
 categories:
   - startups
 ---
-> _I originally published this on the [StartupResources.io blog](https://startupresources.io/blog/deep-domain-expertise-but-no-cto-how-to-hire-one/). You can go there to subscribe to my weekly newsletter of startup tools, articles and advice._
+
+> _This article was originally published on the [Startup Resources blog](https://startupresources.io/blog/deep-domain-expertise-but-no-cto-how-to-hire-one/)._
 
 I was recently asked by a founding team I know, how to go about hiring a CTO. They are experts in a significantly deep domain, but need a technologist with them to build their company, ideally one with a background in the same domain.
 
@@ -21,7 +22,7 @@ So far, they've been outsourcing technical work, but they've realized that this 
 
 In my opinion, for any type of startup where you are building something new, that has not existed in the world before, it is best if you are able to hire a full-time technologist into a CTO type of role, as a partner or co-founder. Without working extremely tightly (in the same room, even) with the person who is building the nuts and bolts of the product, you always lose some of the innovative magic that comes from different disciplines all aligned on building a product.
 
-Of course there are times you can't do this, e.g. if your budget does not allow it or if the company only needs input from a technologist for a limited amount of time, in which case it can make sense to outsource. If this describes you, you might want to <a href="https://landbot.io/u/H-76685-N4PG3YOBF172I1DF/index.html" target="_blank" rel="noopener">talk to my bot</a>which can help you decide where to outsource from. But if you're in a situation where it makes sense to bring on a full-time technologist, one who can build your product and steer the technical vision, do it.
+Of course there are times you can't do this, e.g. if your budget does not allow it or if the company only needs input from a technologist for a limited amount of time, in which case it can make sense to outsource. If this describes you, you might want to <a href="https://landbot.io/u/H-76685-N4PG3YOBF172I1DF/index.html" target="_blank" rel="noopener">talk to my bot</a> which can help you decide where to outsource from. But if you're in a situation where it makes sense to bring on a full-time technologist, one who can build your product and steer the technical vision, do it.
 
 When you already have expert knowledge of a deep domain in the founding team, here are my recommended approaches to hiring a CTO, in order of preference:
 
