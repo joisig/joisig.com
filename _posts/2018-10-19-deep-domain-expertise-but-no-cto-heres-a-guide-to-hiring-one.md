@@ -1,6 +1,6 @@
 ---
 id: 104
-title: 'Deep domain expertise but no CTO? Here's a guide to hiring one'
+title: Deep domain expertise but no CTO? Here's a guide to hiring one
 date: 2018-10-19T09:32:23+00:00
 author: joisig
 layout: post
