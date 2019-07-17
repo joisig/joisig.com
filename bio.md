@@ -10,8 +10,8 @@ Hi! I'm Jói Sigurdsson.
 
 Jói is pronounced YO-i. YO as in yoghurt, i as in independent. That's me. Independent yoghurt.
 
-I left Google in April 2014 after nine and a half years working on products such as Google Desktop and Google Chrome. Instead of a super cushy job with a world class company, my plan was to spend lots of time working on startups that may or may not succeed, may or may not change the world, and may or may not provide free lunch and on-site massages, but would probably be fun. In a way I went back to my roots, as I was "doing startups" before I joined Google, way before it was cool.
+I've spent over 23 years in the software industry, thereof almost 10 at Google working on products such as Google Desktop and Google Chrome, and the rest working on various startups, way before it was cool. When I left Google in 2014, my plan was to spend lots of time working on startups that may or may not succeed, may or may not change the world, and may or may not provide free lunch and on-site massages, but would probably be fun. In a way I was going back to my roots.
 
 Crazy, huh?
 
-This blog documents my post-Google journey. My first startup after Google is called CrankWheel, and it does specialized screen sharing for sales team. [Its main web page](https://crankwheel.com/) is here, and you can see some details about [the genesis of CrankWheel here](/introducing-crankwheel/ "Introducing CrankWheel").
+This blog documents my post-Google journey. My startup that I founded soon after leaving Google is called CrankWheel. It does specialized screen sharing for sales teams - people who are on the phone all day talking to prospects, and could sell better by using visuals. Here's [CrankWheel's marketing page](https://crankwheel.com/) if you want to know more, and you can see some details about [the genesis of CrankWheel here](/introducing-crankwheel/ "Introducing CrankWheel").
