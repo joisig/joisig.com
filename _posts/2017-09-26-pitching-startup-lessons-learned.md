@@ -1,18 +1,17 @@
 ---
-id: 82
 title: 'Pitching your startup: Lessons learned'
 date: 2017-09-26T14:25:15+00:00
 author: joisig
 layout: post
-guid: http://joisig.com/?p=82
 permalink: /pitching-startup-lessons-learned/
+canonical_url: http://startupresources.io/blog/how-to-pitch/
 categories:
   - Uncategorized
 ---
 
 > This article was originally published on the [Startup Resources blog](http://startupresources.io/blog/how-to-pitch/).
 
-![](http://startupresources.io/images/wood-nature-walking-dark.jpg "startup journey")
+![](/static/img/wood-nature-walking-dark.jpg "startup journey")
 
 # How to pitch
 
@@ -65,7 +64,7 @@ Personally, I spend hours perfecting my delivery, and even for a pitch I've deli
 
 My number one piece of advice is that you need to find a way to have your audience connect emotionally to what you're telling them.
 
-![](http://startupresources.io/images/how-to-pitch-emotional-hook.jpg "This guy is upset about something")
+![](/static/img/how-to-pitch-emotional-hook.jpg "This guy is upset about something")
 
 ### Basic: Ask about experiences in the past
 
@@ -107,7 +106,7 @@ Let's look at pitch deck slides from some well-known companies as examples of ea
 
 Your first slide should simply tell people, in a nutshell, what you're all about. If you can't come up with one sentence that clearly tells people what you're doing, like AirBnB did, then make a sentence that tells people roughly in what space you are and makes them intrigued.
 
-![](http://startupresources.io/images/how-to-pitch-1.jpg "AirBnB's original first slide")
+![](/static/img/how-to-pitch-1.jpg "AirBnB's original first slide")
 
 This example is an adaptation of AirBnB's original pitch deck by [Slidebean](https://slidebean.com/blog/startups/pitch-deck-examples).
 
@@ -115,7 +114,7 @@ This example is an adaptation of AirBnB's original pitch deck by [Slidebean](htt
 
 If your team is strong, you should highlight its strengths early on in the pitch. Here's an example from Square, which had an extremely strong founding team.
 
-![](http://startupresources.io/images/how-to-pitch-2.jpg "Square's original pitch, team slide")
+![](/static/img/how-to-pitch-2.jpg "Square's original pitch, team slide")
 
 Don't give too much detail on each person; ideally you want to highlight a couple of really impressive facts, for example if they played a key role in a successful and well-known company or brought in a lot of business as a salesperson.
 
@@ -123,31 +122,31 @@ Don't give too much detail on each person; ideally you want to highlight a coupl
 
 You need to explain the problem that you're addressing. What is the pain point or lack of efficiency that you help with? Ideally, customers should NEED a solution to this problem, rather than WANT one. This is sometimes expressed as whether your product is a vitamin (customers want it) or a painkiller (customers need it).
 
-![](http://startupresources.io/images/how-to-pitch-3.jpg "Mixpanel problem statement")
+![](/static/img/how-to-pitch-3.jpg "Mixpanel problem statement")
 
 The example is from Mixpanel. They went on in a second slide to say that companies were using inconsistent data from multiple sources without a single source of truth or a good way to analyze things.
 
 ### 4. Solution
 
-![](http://startupresources.io/images/how-to-pitch-4.jpg "Mixpanel solution statement")
+![](/static/img/how-to-pitch-4.jpg "Mixpanel solution statement")
 
 Carrying on with Mixpanel as the example, as it flows naturally from the problem. You should describe your solution as simply as possible. You'll have a separate chance to show off the details if you have a product demo or a few slides on your product.
 
 ### 5. Your (ideally unfair) competitive advantage
 
-![](http://startupresources.io/images/how-to-pitch-5.jpg "Moz's original pitch, advantage slide")
+![](/static/img/how-to-pitch-5.jpg "Moz's original pitch, advantage slide")
 
 What unfair advantage, that your competitors will find hard to beat, do you have as a company or with your product? This can be technology, it can be existing market size, growth rate, and more. You should also illustrate how your solution is better than the existing solutions out there, although sometimes this can belong on the slide where you show the competitive landscape.
 
 ### 6. Product
 
-![](http://startupresources.io/images/how-to-pitch-6.jpg "One of Foursquare's product slides from their original pitch")
+![](/static/img/how-to-pitch-6.jpg "One of Foursquare's product slides from their original pitch")
 
 Here's where you either do a brief product demo or show a few slides illustrating your product. If possible, your demo should reinforce why your solution is better and the unfair advantages you may have. This is one of Foursquare's original slides.
 
 ### 7. Traction
 
-![](http://startupresources.io/images/how-to-pitch-7.jpg "Buffer's original pitch, traction slide")
+![](/static/img/how-to-pitch-7.jpg "Buffer's original pitch, traction slide")
 
 If you can, show the traction you are getting on a slide. Buffer's original deck is pretty ho-hum and not the prettiest, until you get to the traction slide, at which point most people would want to invest. If you don't have that kind of traction, you can still try to show traction by means of customer testimonials, ROI your customers have seen, or a timeline of company achievements where you can tell that things are speeding up.
 
@@ -155,7 +154,7 @@ If you can, show the traction you are getting on a slide. Buffer's original deck
 
 The most typical way to show your market size is to show the TAM (Total Available Market), the SAM (Serviceable Available Market) and your own projected market share. Here's that slide adapted again from AirBnB's original deck.
 
-![](http://startupresources.io/images/how-to-pitch-8.jpg "AirBnB's original market slide")
+![](/static/img/how-to-pitch-8.jpg "AirBnB's original market slide")
 
 You often also want to show what your go-to-market strategy is: How will you get your product in front of users? What will be the acquisition cost of a new customer, and what will be the lifetime value? How will you achieve the projected acquisition cost? What are your distribution channels? Is there a viral factor and why?
 
@@ -163,7 +162,7 @@ You often also want to show what your go-to-market strategy is: How will you get
 
 Another example from AirBnB is one of the nicest ways to illustrate your competitive landscape. Choose a couple of axes where your startup will be up and to the right compared to the competition – in this example, AirBnB is most affordable and the most online transaction-y.
 
-![](http://startupresources.io/images/how-to-pitch-9.jpg "AirBnB's original competitive analysis slide")
+![](/static/img/how-to-pitch-9.jpg "AirBnB's original competitive analysis slide")
 
 Regardless of what your slide looks like, what you want to show when you talk about the competition is how your startup is positioned to be different and better than the rest.
 
@@ -180,13 +179,13 @@ In my opinion the best thing to show on the business model/financials slide is:
 
 Here's how Buffer showed this:
 
-![](http://startupresources.io/images/how-to-pitch-10.jpg "Buffer's original business model slide")
+![](/static/img/how-to-pitch-10.jpg "Buffer's original business model slide")
 
 ### 11. The investment “ask”
 
 Your investment slide or “ask” is important to include when you're pitching to an investor.
 
-![](http://startupresources.io/images/how-to-pitch-11.jpg "AirBnB's original investment ask slide")
+![](/static/img/how-to-pitch-11.jpg "AirBnB's original investment ask slide")
 
 Typically you would include how much money you're looking for, roughly what the terms are (e.g. priced round or a convertible note at X% discount), and how much runway this gives you. Sometimes, when it's not obvious, you should include how the funds will be allocated, for example if there's a significant capital outlay or a significant ad spend, rather than the more typical case of almost all of the money going to salaries and contracted services.
 
@@ -194,7 +193,7 @@ Typically you would include how much money you're looking for, roughly what the 
 
 This is one of the original slides from TheFacebook that they used as a press kit. Just goes to show that even though I advise you to make your slide deck look good, in the end of the day it's the quality of your company that matters.
 
-![](http://startupresources.io/images/how-to-pitch-12.jpg "Contact us slide from Facebook press kit")
+![](/static/img/how-to-pitch-12.jpg "Contact us slide from Facebook press kit")
 
 If you want folks to be able to contact you after your presentation, you'd better include your contact details on one of the slides. If you're sending out a pitch deck rather than presenting in person, this is doubly important.
 

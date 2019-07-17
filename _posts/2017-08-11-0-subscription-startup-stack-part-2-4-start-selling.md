@@ -1,11 +1,10 @@
 ---
-id: 76
-title: 'The $0 Subscription Startup Stack – Part 2 of 4: Start selling'
+title: 'The $0 Subscription Startup Stack – Part 2: Start selling'
 date: 2017-08-11T18:39:37+00:00
 author: joisig
 layout: post
-guid: http://joisig.com/?p=76
 permalink: /0-subscription-startup-stack-part-2-4-start-selling/
+canonical_url: https://startupresources.io/blog/the-zero-subscription-startup-stack-part-two/
 categories:
   - Uncategorized
 ---

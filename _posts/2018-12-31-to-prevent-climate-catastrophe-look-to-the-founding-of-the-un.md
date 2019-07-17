@@ -1,10 +1,8 @@
 ---
-id: 111
 title: To prevent climate catastrophe, look to the founding of the UN
 date: 2018-12-31T14:52:44+00:00
 author: joisig
 layout: post
-guid: http://joisig.com/?p=111
 permalink: /to-prevent-climate-catastrophe-look-to-the-founding-of-the-un/
 categories:
   - Uncategorized

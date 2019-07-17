@@ -1,20 +1,19 @@
 ---
-id: 100
 title: 'GDPR: The Quick and Dirty Guide to Getting Compliant for Startups and Small Business'
 date: 2018-05-18T12:12:00+00:00
 author: joisig
 layout: post
-guid: http://joisig.com/?p=100
 permalink: /gdpr-the-quick-and-dirty-guide-to-getting-compliant-for-startups-and-small-business/
+canonical_url: https://startupresources.io/blog/gdpr-the-quick-and-dirty-guide-to-getting-compliant-for-startups-and-small-business/
 categories:
   - Uncategorized
 ---
 
-> _This article was originally published on the [Startup Resources blog](http://startupresources.io/blog/gdpr-the-quick-and-dirty-guide-to-getting-compliant-for-startups-and-small-business/)._
+> _This article was originally published on the [Startup Resources blog](https://startupresources.io/blog/gdpr-the-quick-and-dirty-guide-to-getting-compliant-for-startups-and-small-business/)._
 
 A lot has been written about the European Union's new data protection regulation, the [GDPR](https://gdpr-info.eu/), but not much of it is tailored for startups and small businesses, and a lot of it just muddies the picture of what you really need to do or gives you an incomplete picture.
 
-In this guide, it is my intent to give you a simple set of steps you can take, **if you fit a particular profile** that will apply to many small businesses and startups, to become compliant enough to avoid fines, to treat your users fairly under the new regulation, and to work towards fuller compliance over time as the regulation gets interpreted and more best practices get established around what it means to be compliant (much of this is a bit vague at the moment). Read on for important legal disclaimers, and for details on the profile you need to fit for this guide to apply to you.[<img class="alignright size-full wp-image-101" src="http://joisig.com/wp-content/uploads/2018/05/private.jpg" alt="Private, photo by Dayne Topkin on Unsplash" width="1280" height="853" srcset="http://joisig.com/wp-content/uploads/2018/05/private.jpg 1280w, http://joisig.com/wp-content/uploads/2018/05/private-300x200.jpg 300w, http://joisig.com/wp-content/uploads/2018/05/private-768x512.jpg 768w, http://joisig.com/wp-content/uploads/2018/05/private-1024x682.jpg 1024w" sizes="(max-width: 1280px) 100vw, 1280px" />](http://joisig.com/wp-content/uploads/2018/05/private.jpg)
+In this guide, it is my intent to give you a simple set of steps you can take, **if you fit a particular profile** that will apply to many small businesses and startups, to become compliant enough to avoid fines, to treat your users fairly under the new regulation, and to work towards fuller compliance over time as the regulation gets interpreted and more best practices get established around what it means to be compliant (much of this is a bit vague at the moment). Read on for important legal disclaimers, and for details on the profile you need to fit for this guide to apply to you.[<img class="alignright size-full wp-image-101" src="/wp-content/uploads/2018/05/private.jpg" alt="Private, photo by Dayne Topkin on Unsplash" width="1280" height="853" srcset="/wp-content/uploads/2018/05/private.jpg 1280w, /wp-content/uploads/2018/05/private-300x200.jpg 300w, /wp-content/uploads/2018/05/private-768x512.jpg 768w, /wp-content/uploads/2018/05/private-1024x682.jpg 1024w" sizes="(max-width: 1280px) 100vw, 1280px" />](/wp-content/uploads/2018/05/private.jpg)
 
 GDPR is in effect from May 25th, 2018, and whether you are based in the EU or not, you very likely will need to be compliant. If you have users living in the EU or [EEA](https://en.wikipedia.org/wiki/European_Economic_Area)then you need to comply. You will also need to comply if you process any personal data on users who live in the EU or EEA, even if that processing is done on behalf of a third party (i.e., the users are not directly _your_ users).
 

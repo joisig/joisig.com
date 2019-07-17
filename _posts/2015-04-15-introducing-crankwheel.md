@@ -1,15 +1,13 @@
 ---
-id: 28
 title: Introducing CrankWheel
 date: 2015-04-15T17:58:35+00:00
 author: joisig
 layout: post
-guid: http://joisig.com/?p=28
 permalink: /introducing-crankwheel/
 categories:
   - CrankWheel
 ---
-<figure id="attachment_30" aria-describedby="caption-attachment-30" style="width: 300px" class="wp-caption alignright"><img class="size-full wp-image-30" src="http://joisig.com/wp-content/uploads/2015/04/crankwheel-blogsize1.jpg" alt="This part of your bike is called a crankwheel. Without it, your bike would suck." width="300" height="225" /><figcaption id="caption-attachment-30" class="wp-caption-text">This part of your bike is called a crankwheel. Without it, your bike would suck.</figcaption></figure>
+<figure id="attachment_30" aria-describedby="caption-attachment-30" style="width: 300px" class="wp-caption alignright"><img class="size-full wp-image-30" src="/wp-content/uploads/2015/04/crankwheel-blogsize1.jpg" alt="This part of your bike is called a crankwheel. Without it, your bike would suck." width="300" height="225" /><figcaption id="caption-attachment-30" class="wp-caption-text">This part of your bike is called a crankwheel. Without it, your bike would suck.</figcaption></figure>
 
 I'm finally ready to blog about my startup, that I'm now working on full-time after developing it since last fall with my co-founder Þorgils (I'm the technologist, he's the sales wizard). Our tagline is "CrankWheel: Power your Sales and Service," we're on [Facebook](https://www.facebook.com/crankwheel) and [Twitter](https://twitter.com/crankwheel) and you can sign up at <http://www.crankwheel.com/> to get news (and a special offer) when we launch, which should be this summer.
 

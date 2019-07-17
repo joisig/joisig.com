@@ -1,21 +1,19 @@
 ---
-id: 40
 title: Why CrankWheel, and why Iceland?
 date: 2015-05-12T08:54:19+00:00
 author: joisig
 layout: post
-guid: http://joisig.com/?p=40
 permalink: /why-crankwheel-and-why-iceland/
 categories:
   - CrankWheel
 ---
-<img class="alignright size-medium wp-image-41" src="http://joisig.com/wp-content/uploads/2015/05/cropped-island_startupiceland111-300x168.png" alt="cropped-island_startupiceland111" width="300" height="168" srcset="http://joisig.com/wp-content/uploads/2015/05/cropped-island_startupiceland111-300x168.png 300w, http://joisig.com/wp-content/uploads/2015/05/cropped-island_startupiceland111.png 572w" sizes="(max-width: 300px) 100vw, 300px" />
+<img class="alignright size-medium wp-image-41" src="/wp-content/uploads/2015/05/cropped-island_startupiceland111-300x168.png" alt="cropped-island_startupiceland111" width="300" height="168" srcset="/wp-content/uploads/2015/05/cropped-island_startupiceland111-300x168.png 300w, /wp-content/uploads/2015/05/cropped-island_startupiceland111.png 572w" sizes="(max-width: 300px) 100vw, 300px" />
 
 > _The following blog was first published on the [Startup Iceland blog on May 11 2015](http://startupiceland.com/2015/05/11/why-crankwheel-and-why-iceland/)._
 
 * * *
 
-About a year ago, I left a fantastic job at Google to fulfil my [long standing desire](http://joisig.com/?p=18) to start my own company. I took a couple of months off, then started working on the startup idea I had when I left Google, only to discover that I was not passionate enough about building that particular business. I won't describe it in detail in this blog post; suffice it to say that it was related to software localization, an area I worked on quite a bit at Google.
+About a year ago, I left a fantastic job at Google to fulfil my [long standing desire](/why-i-left-google/) to start my own company. I took a couple of months off, then started working on the startup idea I had when I left Google, only to discover that I was not passionate enough about building that particular business. I won't describe it in detail in this blog post; suffice it to say that it was related to software localization, an area I worked on quite a bit at Google.
 
 What followed were a couple of months of gut-wrenching self-doubt. This blog post is about those months, how I found and fell in love with the idea that became [CrankWheel](http://crankwheel.com/), and why my [co-founder](https://www.linkedin.com/pub/gilsi-sigvaldason/b2/2a7/9b5) Þorgils and I chose to start in Iceland.
 
@@ -43,7 +41,7 @@ Finally, the talent pool in Iceland is really good. It's small, but in my opinio
 
 There can be disadvantages to starting in Iceland, or any place that is small and far away from your future market area, but the magnitude of these disadvantages will depend quite a bit on the business model you choose. CrankWheel is a Software-as-a-Service (SaaS) solution, meaning it is a hosted solution and the kind of deep integrations and long sales cycles that are typical for enterprise software solutions are unnecessary. For a globally focused enterprise software company, starting in Iceland could be a significant disadvantage since most of your customers are far away, and you have a considerable need to visit them in person. For a SaaS company, there is much less need to meet in person, which reduces this disadvantage considerably. For our company in particular, that likes to use its own product to further reduce the need for meeting in person, this disadvantage becomes even smaller.
 
-I hope I've given some insight into why I [fell in love with CrankWheel](http://joisig.com/?p=28), and why I'm excited to build CrankWheel in Iceland. I'm happy to continue the conversation on Twitter at either [@joisig](https://twitter.com/joisig) or [@CrankWheel](https://twitter.com/crankwheel), or on CrankWheel's [Facebook page](https://www.facebook.com/crankwheel).
+I hope I've given some insight into why I [fell in love with CrankWheel](/introducing-crankwheel/), and why I'm excited to build CrankWheel in Iceland. I'm happy to continue the conversation on Twitter at either [@joisig](https://twitter.com/joisig) or [@CrankWheel](https://twitter.com/crankwheel), or on CrankWheel's [Facebook page](https://www.facebook.com/crankwheel).
 
 Shameless plug: CrankWheel is hiring! Check our [Facebook page](http://facebook.com/crankwheel) for links to listings.
 

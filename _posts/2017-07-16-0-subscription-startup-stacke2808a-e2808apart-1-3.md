@@ -1,11 +1,10 @@
 ---
-id: 56
-title: The $0 Subscription Startup Stack — Part 1 of 3
+title: "The $0 Subscription Startup Stack — Part 1: Build a product"
 date: 2017-07-16T12:59:09+00:00
 author: joisig
 layout: post
-guid: http://joisig.com/?p=56
 permalink: '/0-subscription-startup-stack-part-1-3/'
+canonical_url: https://startupresources.io/blog/the-zero-subscription-startup-stack-part-one/
 categories:
   - startups
 ---

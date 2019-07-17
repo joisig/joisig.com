@@ -1,11 +1,10 @@
 ---
-id: 104
 title: Deep domain expertise but no CTO? Here's a guide to hiring one
 date: 2018-10-19T09:32:23+00:00
 author: joisig
 layout: post
-guid: http://joisig.com/?p=104
 permalink: /deep-domain-expertise-but-no-cto-heres-a-guide-to-hiring-one/
+canonical_url: https://startupresources.io/blog/deep-domain-expertise-but-no-cto-how-to-hire-one/
 categories:
   - startups
 ---
@@ -16,7 +15,7 @@ I was recently asked by a founding team I know, how to go about hiring a CTO. Th
 
 So far, they've been outsourcing technical work, but they've realized that this is not be the best approach.
 
-[<img class="aligncenter size-large wp-image-105" src="http://joisig.com/wp-content/uploads/2018/10/recruit-1024x607.jpg" alt="Sealing the deal with a handshake" width="780" height="462" srcset="http://joisig.com/wp-content/uploads/2018/10/recruit-1024x607.jpg 1024w, http://joisig.com/wp-content/uploads/2018/10/recruit-300x178.jpg 300w, http://joisig.com/wp-content/uploads/2018/10/recruit-768x455.jpg 768w, http://joisig.com/wp-content/uploads/2018/10/recruit.jpg 1280w" sizes="(max-width: 780px) 100vw, 780px" />](http://joisig.com/wp-content/uploads/2018/10/recruit.jpg)
+[<img class="aligncenter size-large wp-image-105" src="/wp-content/uploads/2018/10/recruit-1024x607.jpg" alt="Sealing the deal with a handshake" width="780" height="462" srcset="/wp-content/uploads/2018/10/recruit-1024x607.jpg 1024w, /wp-content/uploads/2018/10/recruit-300x178.jpg 300w, /wp-content/uploads/2018/10/recruit-768x455.jpg 768w, /wp-content/uploads/2018/10/recruit.jpg 1280w" sizes="(max-width: 780px) 100vw, 780px" />](/wp-content/uploads/2018/10/recruit.jpg)
 
 ## How to find your CTO co-founder
 
