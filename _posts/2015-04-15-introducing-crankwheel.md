@@ -9,7 +9,7 @@ categories:
 ---
 <figure id="attachment_30" aria-describedby="caption-attachment-30" style="width: 300px" class="wp-caption alignright"><img class="size-full wp-image-30" src="/wp-content/uploads/2015/04/crankwheel-blogsize1.jpg" alt="This part of your bike is called a crankwheel. Without it, your bike would suck." width="300" height="225" /><figcaption id="caption-attachment-30" class="wp-caption-text">This part of your bike is called a crankwheel. Without it, your bike would suck.</figcaption></figure>
 
-I'm finally ready to blog about my startup, that I'm now working on full-time after developing it since last fall with my co-founder Þorgils (I'm the technologist, he's the sales wizard). Our tagline is "CrankWheel: Power your Sales and Service," we're on [Facebook](https://www.facebook.com/crankwheel) and [Twitter](https://twitter.com/crankwheel) and you can sign up at <http://www.crankwheel.com/> to get news (and a special offer) when we launch, which should be this summer.
+I'm finally ready to blog about my startup, that I'm now working on full-time after developing it since last fall with my co-founder Þorgils (I'm the technologist, he's the sales wizard). Our tagline is "CrankWheel: Power your Sales and Service," we're on [Facebook](https://www.facebook.com/crankwheel) and [Twitter](https://twitter.com/crankwheel) and you can sign up at <https://www.crankwheel.com/> to get news (and a special offer) when we launch, which should be this summer.
 
 In a nutshell, CrankWheel allows a customer service agent, a sales person, or anybody else who might have a customer or colleague on the phone, to enhance the phone call with the ability to communicate visually, as if you were sitting side by side in front of a computer screen, in ten seconds flat.
 
@@ -40,6 +40,6 @@ Right now, Þorgils and I are finalising the lineup of our first several custome
 
 We are also ready to hire employee number one, based in our Reykjavík office. The ideal candidate is a rockstar programmer interested in web technologies and real-time communications. Don't hesitate to get in touch with me if you are one or you know one. I promise, this will be fun!
 
-I really look forward to being able to show and tell you more about CrankWheel in the coming months, both here and on the yet-to-launch CrankWheel blog, as well as by email if you sign up at <http://www.crankwheel.com/>.
+I really look forward to being able to show and tell you more about CrankWheel in the coming months, both here and on the yet-to-launch CrankWheel blog, as well as by email if you sign up at <https://www.crankwheel.com/>.
 
 In the meantime, I'll keep pedalling.

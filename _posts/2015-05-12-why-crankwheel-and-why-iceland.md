@@ -9,13 +9,11 @@ categories:
 ---
 <img class="alignright size-medium wp-image-41" src="/wp-content/uploads/2015/05/cropped-island_startupiceland111-300x168.png" alt="cropped-island_startupiceland111" width="300" height="168" srcset="/wp-content/uploads/2015/05/cropped-island_startupiceland111-300x168.png 300w, /wp-content/uploads/2015/05/cropped-island_startupiceland111.png 572w" sizes="(max-width: 300px) 100vw, 300px" />
 
-> _The following blog was first published on the [Startup Iceland blog on May 11 2015](http://startupiceland.com/2015/05/11/why-crankwheel-and-why-iceland/)._
-
-* * *
+> _The following was first published on the [Startup Iceland blog on May 11 2015](http://startupiceland.com/2015/05/11/why-crankwheel-and-why-iceland/)._
 
 About a year ago, I left a fantastic job at Google to fulfil my [long standing desire](/why-i-left-google/) to start my own company. I took a couple of months off, then started working on the startup idea I had when I left Google, only to discover that I was not passionate enough about building that particular business. I won't describe it in detail in this blog post; suffice it to say that it was related to software localization, an area I worked on quite a bit at Google.
 
-What followed were a couple of months of gut-wrenching self-doubt. This blog post is about those months, how I found and fell in love with the idea that became [CrankWheel](http://crankwheel.com/), and why my [co-founder](https://www.linkedin.com/pub/gilsi-sigvaldason/b2/2a7/9b5) Þorgils and I chose to start in Iceland.
+What followed were a couple of months of gut-wrenching self-doubt. This blog post is about those months, how I found and fell in love with the idea that became [CrankWheel](https://crankwheel.com/), and why my [co-founder](https://www.linkedin.com/pub/gilsi-sigvaldason/b2/2a7/9b5) Þorgils and I chose to start in Iceland.
 
 The metaphorical winter of my discontent was actually late last summer, when the sun in Iceland had started dipping below the horizon for a few hours every night. Þorgils and I had attended elementary school in Akureyri together, back in the days when Iceland had just one television channel which broadcast only 6 days a week, 11 months a year. We had become reacquainted a few months earlier, and were spending quite a lot of time together socially that summer.
 
@@ -43,12 +41,6 @@ There can be disadvantages to starting in Iceland, or any place that is small an
 
 I hope I've given some insight into why I [fell in love with CrankWheel](/introducing-crankwheel/), and why I'm excited to build CrankWheel in Iceland. I'm happy to continue the conversation on Twitter at either [@joisig](https://twitter.com/joisig) or [@CrankWheel](https://twitter.com/crankwheel), or on CrankWheel's [Facebook page](https://www.facebook.com/crankwheel).
 
-Shameless plug: CrankWheel is hiring! Check our [Facebook page](http://facebook.com/crankwheel) for links to listings.
+Shameless plug: CrankWheel is hiring! Check our [Facebook page](https://facebook.com/crankwheel) for links to listings.
 
 I'd like to end by giving a shout-out to [Bala](https://twitter.com/balainiceland). Thank you Bala, for the opportunity to guest blog, and thanks for everything you've done for the Icelandic startup community! I look forward to attending the [Startup Iceland](http://startupiceland.com/) conference in just a couple of weeks, and I encourage everyone connected to the Icelandic startup scene to attend – it's the premier event for our community.
-
-&nbsp;
-
-* * *
-
-_The above was first published on the [Startup Iceland blog on May 11 2015](http://startupiceland.com/2015/05/11/why-crankwheel-and-why-iceland/)._

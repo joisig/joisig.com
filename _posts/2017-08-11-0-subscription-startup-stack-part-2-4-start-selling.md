@@ -20,7 +20,7 @@ We'll start with sales in this second installment, then go on to marketing in pa
 
 As before, any tool or service in this article has a zero-subscription tier, either free or freemium. In some cases, I make recommendations for paid tools above a free alternative, when there are high costs to switching later, and certain services that can't be found free but are available without a fixed monthly fee may also be included.
 
-My recent background is from my B2B SaaS startup <a href="http://crankwheel.com/" target="_blank" rel="noopener">CrankWheel</a>, so this and the next installment will be significantly slanted to the type of sales and marketing you do for a startup like that, but many or most of the tools and approaches will be relevant for most types of startups.
+My recent background is from my B2B SaaS startup <a href="https://crankwheel.com/" target="_blank" rel="noopener">CrankWheel</a>, so this and the next installment will be significantly slanted to the type of sales and marketing you do for a startup like that, but many or most of the tools and approaches will be relevant for most types of startups.
 
 hands shaking on a deal](/static/img/handshakedeal.png)
 
@@ -227,7 +227,7 @@ I would be remiss if I didn't mention my own startup here, as our product is spe
 
 ### All steps in one!
 
-My startup, <a href="http://crankwheel.com/?ref=startupresources" target="_blank" rel="noopener">CrankWheel</a>, provides a specialized screen-sharing solution for Inside Sales that takes care of all of the steps mentioned above, reduces friction at every step, and enables you to call your prospects within seconds rather than minutes. A free edition for single salespeople is available.
+My startup, <a href="https://crankwheel.com/?ref=startupresources" target="_blank" rel="noopener">CrankWheel</a>, provides a specialized screen-sharing solution for Inside Sales that takes care of all of the steps mentioned above, reduces friction at every step, and enables you to call your prospects within seconds rather than minutes. A free edition for single salespeople is available.
 
 Friction is reduced because CrankWheel's screen sharing works on practically every single browser out there, including on mobile devices, without there ever being a download, and because instead of asking a ton of questions all at once when capturing lead information, it asks just one to start with (their phone number) before asking the rest one at a time, while it searches for an agent to call the prospect.
 
@@ -235,7 +235,7 @@ All available agents get an instant notification that a prospect wants a demo, a
 
 Lead information is stored in the system itself, sent by email to agents, and can also be sent to other systems via <a href="http://zapier.com/" target="_blank" rel="noopener">Zapier</a> and native integrations.
 
-OK enough with my tiny sales pitch, hope you'll excuse that and go <a href="http://crankwheel.com/?ref=startupresources" target="_blank" rel="noopener">try CrankWheel out for yourself</a> or <a href="https://meeting.is/ss/showu/cw" target="_blank" rel="noopener">request a demo</a>.
+OK enough with my tiny sales pitch, hope you'll excuse that and go <a href="https://crankwheel.com/?ref=startupresources" target="_blank" rel="noopener">try CrankWheel out for yourself</a> or <a href="https://meeting.is/ss/showu/cw" target="_blank" rel="noopener">request a demo</a>.
 
 ![diagram of people at a conference](/static/img/conference.jpg)
 
