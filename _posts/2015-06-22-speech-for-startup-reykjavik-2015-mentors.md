@@ -9,7 +9,7 @@ categories:
 tags:
   - mentoring
 ---
-<figure id="attachment_51" aria-describedby="caption-attachment-51" style="width: 360px" class="wp-caption alignright"><img class="size-full wp-image-51" src="/wp-content/uploads/2015/06/startup-reykjavik-mentor-of-the-year1.jpg" alt="From left: Salóme Guðmundsdóttir, CEO of Klak Innovit, myself, and Svava Björk Ólafsdóttir" width="360" height="345" srcset="/wp-content/uploads/2015/06/startup-reykjavik-mentor-of-the-year1.jpg 360w, /wp-content/uploads/2015/06/startup-reykjavik-mentor-of-the-year1-300x288.jpg 300w" sizes="(max-width: 360px) 100vw, 360px" /><figcaption id="caption-attachment-51" class="wp-caption-text">From left: Salóme Guðmundsdóttir, CEO of Klak Innovit, myself, and Svava Björk Ólafsdóttir</figcaption></figure>
+<figure id="attachment_51" aria-describedby="caption-attachment-51" style="width: 360px" class="wp-caption alignright"><img class="size-full wp-image-51" src="/static/img/startup-reykjavik-mentor-of-the-year1.jpg" alt="From left: Salóme Guðmundsdóttir, CEO of Klak Innovit, myself, and Svava Björk Ólafsdóttir" width="360" height="345" srcset="/static/img/startup-reykjavik-mentor-of-the-year1.jpg 360w, /static/img/startup-reykjavik-mentor-of-the-year1-300x288.jpg 300w" sizes="(max-width: 360px) 100vw, 360px" /><figcaption id="caption-attachment-51" class="wp-caption-text">From left: Salóme Guðmundsdóttir, CEO of Klak Innovit, myself, and Svava Björk Ólafsdóttir</figcaption></figure>
 
 For the last three summers, I've participated as a mentor in the <a href="http://www.startupreykjavik.com/" target="_blank">Startup Reykjavik</a> accelerator programme. Today, I was honoured to be voted by the 2014 alumni as "mentor of the year" for last summer's programme.
 

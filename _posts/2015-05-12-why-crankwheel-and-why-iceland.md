@@ -7,7 +7,7 @@ permalink: /why-crankwheel-and-why-iceland/
 categories:
   - CrankWheel
 ---
-<img class="alignright size-medium wp-image-41" src="/wp-content/uploads/2015/05/cropped-island_startupiceland111-300x168.png" alt="cropped-island_startupiceland111" width="300" height="168" srcset="/wp-content/uploads/2015/05/cropped-island_startupiceland111-300x168.png 300w, /wp-content/uploads/2015/05/cropped-island_startupiceland111.png 572w" sizes="(max-width: 300px) 100vw, 300px" />
+<img class="alignright size-medium wp-image-41" src="/static/img/cropped-island_startupiceland111-300x168.png" alt="cropped-island_startupiceland111" width="300" height="168" srcset="/static/img/cropped-island_startupiceland111-300x168.png 300w, /static/img/cropped-island_startupiceland111.png 572w" sizes="(max-width: 300px) 100vw, 300px" />
 
 > _The following was first published on the [Startup Iceland blog on May 11 2015](http://startupiceland.com/2015/05/11/why-crankwheel-and-why-iceland/)._
 

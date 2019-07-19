@@ -4,7 +4,7 @@ date: 2014-11-05T22:35:46+00:00
 author: joisig
 layout: page
 ---
-<figure id="attachment_7" aria-describedby="caption-attachment-7" style="width: 150px" class="wp-caption alignright"><img class="wp-image-7 size-thumbnail" src="/wp-content/uploads/2014/06/headshot-150x150.jpg" alt="Jói, headshot edition" width="150" height="150" srcset="/wp-content/uploads/2014/06/headshot-150x150.jpg 150w, /wp-content/uploads/2014/06/headshot-300x300.jpg 300w, /wp-content/uploads/2014/06/headshot.jpg 323w" sizes="(max-width: 150px) 100vw, 150px" /><figcaption id="caption-attachment-7" class="wp-caption-text">Independent yoghurt.</figcaption></figure>
+<figure id="attachment_7" aria-describedby="caption-attachment-7" style="width: 150px" class="wp-caption alignright"><img class="wp-image-7 size-thumbnail" src="/static/img/headshot-150x150.jpg" alt="Jói, headshot edition" width="150" height="150" srcset="/static/img/headshot-150x150.jpg 150w, /static/img/headshot-300x300.jpg 300w, /static/img/headshot.jpg 323w" sizes="(max-width: 150px) 100vw, 150px" /><figcaption id="caption-attachment-7" class="wp-caption-text">Independent yoghurt.</figcaption></figure>
 
 Hi! I'm Jói Sigurdsson.
 

@@ -11,7 +11,7 @@ The [IPCC's recent report](https://www.ipcc.ch/sr15/) on the effects of global w
 
 I am not an expert or even particularly well educated on this subject, but I am truly alarmed by the big picture that I see, and I want to be able to tell my kids I did all I could to help. Therefore, as a start, I'm writing this essay which I hope will influence some of my friends and readers to apply more pressure on their governments, and to consider other ways they can help.<figure class="wp-block-image">
 
-<figure><img src="/wp-content/uploads/2018/12/l-w-128299-unsplash-1024x683.jpg" alt="Climate change will affect many ecosystems"/> <figcaption>Photo by&nbsp;<a href="https://unsplash.com/photos/1qIsv86S79E?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">L.W.</a>&nbsp;on&nbsp;<a href="https://unsplash.com/search/photos/climate?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></figcaption></figure>
+<figure><img src="/static/img/l-w-128299-unsplash-1024x683.jpg" alt="Climate change will affect many ecosystems"/> <figcaption>Photo by&nbsp;<a href="https://unsplash.com/photos/1qIsv86S79E?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">L.W.</a>&nbsp;on&nbsp;<a href="https://unsplash.com/search/photos/climate?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></figcaption></figure>
 
 You see, this is not a problem we can solve by recycling alone (although we should definitely recycle) or by just avoiding the use of disposable plastic (although we should avoid it). It is not a small local problem, or a problem that any one nation-state can solve. In fact, I believe far too much political attention is being spent on projects that ultimately will not solve the root cause of climate change, such as switching away from disposable plastic bags to other solutions. All such efforts are positive steps that also need to be taken, but we need our politicians to engage at a significantly higher level.
 
@@ -19,7 +19,7 @@ We are currently on track for catastrophic climate change, a scenario where it s
 
 I was intrigued and a bit shocked by this infographic from the Financial Times, that came out soon after the IPCC report:<figure class="wp-block-image">
 
-<figure><img src="/wp-content/uploads/2018/12/fiftyshadesofgreen-1024x576.png" alt="Climate change can be affected by reducing our emissions. But what can we do as individuals towards this goal?"/> <figcaption>Source: <a href="https://www.ft.com/content/31d40402-e998-11e8-a34c-663b3f553b35">Financial Times</a></figcaption></figure>
+<figure><img src="/static/img/fiftyshadesofgreen-1024x576.png" alt="Climate change can be affected by reducing our emissions. But what can we do as individuals towards this goal?"/> <figcaption>Source: <a href="https://www.ft.com/content/31d40402-e998-11e8-a34c-663b3f553b35">Financial Times</a></figcaption></figure>
 
 A car-free lifestyle helps. Eating vegan or switching to an electric or hybrid car helps, but also, skipping just one transatlantic flight helps a ton. So why don't we do more to reduce the frequency of flights?
 

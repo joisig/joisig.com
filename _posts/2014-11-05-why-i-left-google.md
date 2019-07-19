@@ -7,7 +7,7 @@ permalink: /why-i-left-google/
 categories:
   - Uncategorized
 ---
-<figure id="attachment_21" aria-describedby="caption-attachment-21" style="width: 300px" class="wp-caption alignright"><img class="wp-image-21 size-medium" src="/wp-content/uploads/2014/11/tree-small-300x225.jpg" alt="tree-small" width="300" height="225" srcset="/wp-content/uploads/2014/11/tree-small-300x225.jpg 300w, /wp-content/uploads/2014/11/tree-small.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /><figcaption id="caption-attachment-21" class="wp-caption-text">Make like a tree and leave</figcaption></figure>
+<figure id="attachment_21" aria-describedby="caption-attachment-21" style="width: 300px" class="wp-caption alignright"><img class="wp-image-21 size-medium" src="/static/img/tree-small-300x225.jpg" alt="tree-small" width="300" height="225" srcset="/static/img/tree-small-300x225.jpg 300w, /static/img/tree-small.jpg 800w" sizes="(max-width: 300px) 100vw, 300px" /><figcaption id="caption-attachment-21" class="wp-caption-text">Make like a tree and leave</figcaption></figure>
 
 When I decided to leave Google a few months ago, I was asked all the questions you might reasonably expect people to ask. "Isn't it a fantastic place to work? Couldn't you just switch projects to something really exciting like self-driving cars? Don't they pay really well? Are you sure you still know how to fend for yourself after all of the free food? I'd cut off a leg if it meant getting a job at Google, what's wrong with you?" And so on.
 
