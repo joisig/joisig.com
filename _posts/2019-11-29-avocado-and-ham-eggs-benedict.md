@@ -9,7 +9,7 @@ categories:
 - recipes
 
 ---
-This is quite a bit off my usual topics of startups and tech, but a good friend of mine asked for the recipe and I figured I'd post it for posterity. It's an eggs Benedict recipe I put together out of a few others and made many times over during a recent paternity leave. I'll also describe a nice keto/LCHF variation on the recipe.
+This is quite a bit off my usual topics of startups and tech, but a good friend of mine asked for the recipe and I figured I'd write it up here for posterity. It's an eggs Benedict recipe I put together out of a few others and made many times over during a recent paternity leave. I'll also describe a nice keto/LCHF variation on the recipe.
 
 ![](/media/eggsbene.jpg)
 
