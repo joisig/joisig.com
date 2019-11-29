@@ -14,6 +14,8 @@ fields:
 - type: text
   name: layout
   label: layout
+  hidden: true
+  default: post
 - type: text
   name: permalink
   label: permalink
