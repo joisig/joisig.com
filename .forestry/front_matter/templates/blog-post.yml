@@ -25,3 +25,5 @@ fields:
 - type: list
   name: categories
   label: categories
+pages:
+- _posts/avocado-and-ham-eggs-benedict.md
