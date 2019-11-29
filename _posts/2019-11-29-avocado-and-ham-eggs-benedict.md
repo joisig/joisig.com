@@ -15,28 +15,19 @@ This is quite a bit off my usual topics of startups and tech, but a good friend 
 
 ### Ingredients (2 portions)
 
-1 avocado
-
-2 English muffins, or - for English-muffin-starved Icelanders, two halves of a "skonsa" from Ömmubakstur
-
-5 eggs
-
-A bit of lemon juice
-
-1 tablespoon 4% table vinegar (borðedik) or 1/3rd of that, about one tap, if you get vinegar acid (ediksýra, 14%)
-
-A couple or a few slices of ham
-
-80g butter
-
-A bit of Dijon mustard
-
-Optional:
-
-* Cayenne pepper
-* Smoked paprika powder
-* 8 pieces of bacon
-* Strawberries and/or blueberries and/or a green salad for the side
+* 1 avocado
+* 2 English muffins, or - for English-muffin-starved Icelanders, two halves of a "skonsa" from Ömmubakstur
+* 5 eggs
+* A bit of lemon juice
+* 1 tablespoon 4% table vinegar (borðedik) or 1/3rd of that, about one tap, if you get vinegar acid (ediksýra, 14%)
+* A couple or a few slices of ham
+* 80g butter
+* A bit of Dijon mustard
+* Optional:
+  * Cayenne pepper
+  * Smoked paprika powder
+  * 4-8 pieces of bacon
+  * Strawberries and/or blueberries and/or a green salad for the side
 
 ### Implements
 
@@ -105,4 +96,4 @@ Voila!
 Pretty simple, very tasty and about 4-6g carbs depending on how you do the sides:
 
 * Instead of bread, use 3-4 slices of ham and put the dijon on top of that, then the avocado
-* For the side, use just one medium strawberry cut up small, or just a few blueberries, and an additional half or whole avocado, or go with just spinach
+* For the side, use just one medium strawberry cut up small, or just a few blueberries, and an additional half of an avocado plus some bacon, or go with just spinach, depending on how hungry you are
