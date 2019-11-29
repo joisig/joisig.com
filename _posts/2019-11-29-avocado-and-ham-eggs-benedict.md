@@ -81,7 +81,7 @@ Start your poached eggs as soon as you've finished step #7 above:
 6. Boil for 2m30s for yolks that are still quite runny, 2m45s for yolks that have started to firm up but still have a runny middle
 7. Fish your poached eggs out of the water using a slotted spoon or a fish ladle, shaking them a bit to get most of the water off; you can plate them directly from here.
 
-Plate everything together:
+Plate it all up:
 
 1. Two poached eggs on top of each bread
 2. One tablespoon of sauce on top of each egg, then divvy up the rest if there is any
