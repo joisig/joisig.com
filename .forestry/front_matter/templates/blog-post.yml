@@ -1,0 +1,29 @@
+---
+label: Blog post
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: author
+  label: author
+- type: text
+  name: layout
+  label: layout
+  hidden: true
+  default: post
+- type: text
+  name: permalink
+  label: permalink
+- type: text
+  name: canonical_url
+  label: canonical_url
+- type: list
+  name: categories
+  label: categories
+pages:
+- _posts/2019-11-29-avocado-and-ham-eggs-benedict.md
