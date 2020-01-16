@@ -8,7 +8,9 @@ categories: []
 
 ---
 
-I’ve developed some ideas based on running a bootstrapped startup for about five years now, and I want to write blog posts about some of them. We write a very [sales-focused blog](https://crankwheel.com/blog/) on the CrankWheel site, so instead of posting there, I’ll be posting them here on my personal website. You can [subscribe to updates](https://joisig.substack.com/p/coming-soon) if you’d like to read my future stuff.
+I’ve developed some ideas based on running a bootstrapped startup for about five years now, and I want to write blog posts about some of them. We write a very [sales-focused blog](https://crankwheel.com/blog/) on the CrankWheel site, so instead of posting there, I’ll be posting them here on my personal website.
+
+This is the first post on this subject. You can [subscribe to updates](https://joisig.substack.com/p/coming-soon) if you’d like to read my future stuff.
 
 The first idea I’d like to discuss is what I see as a very efficient (capital and otherwise) approach to building a business, starting as a solo founder. As I have a co-founder in CrankWheel, I haven’t actually gone this exact route, but there was a period a couple of years back in CrankWheel’s history when we shrank it down to just me as the only full-time contributor, where I was essentially at the “Ray” stage that is discussed below and then progressed through the other stages as the business grew again.
 
