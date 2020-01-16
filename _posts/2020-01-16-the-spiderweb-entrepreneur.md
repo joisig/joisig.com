@@ -19,7 +19,7 @@ When you’re just starting out with a business idea, I believe one of the most 
 
 A solo entrepreneur is like a _Dot_ at the heart of the business, working all alone.
 
-![](/media/spiderweb-dot.png)
+![Dot representing you at center of circle representing your business](/media/spiderweb-dot.png)
 
 The challenges of starting solo are that you have nobody to lean on, which can be especially hard from a motivational perspective and sometimes from a mental health perspective. Nobody but you understands the ups and downs and the emotional challenges of building the business, so the people you might lean on for support such as your spouse or friends, while they might listen, don’t fully understand. Other founders get it though, even if they’re not running the same business, so try to make friends with some of those.
 
@@ -31,7 +31,7 @@ This has a very strong focusing effect, driving you to work on the most importan
 
 As soon as you can afford it, it’s worth upgrading to a _Ray_: You’re still at the center of your business, but you’ve got yourself a virtual assistant (VA) helping you with various rote tasks, which leaves you more time to focus on more impactful tasks. Your VA is the first “spoke” in the next model after this, which is _Hub and Spoke_.
 
-![](/media/spiderweb-ray.png)
+![Dot and ray representing you and your virtual assistant, and circle representing your business](/media/spiderweb-ray.png)
 
 Having a virtual assistant is especially useful as soon as you start various repetitive sales and/or marketing activities or as soon as you need to provide customer support. Over time, you can train your VA to take over a lot of tasks that you initially perform yourself.
 
@@ -63,7 +63,7 @@ To hire a VA, there are many agencies you could go with, or you could use Upwork
 
 The next step after the “Ray” model is the “Hub and spoke” model. You’re still at the center of everything and everything flows through you, but you’ve got a number of specialists working for you in addition to your generalist VA. Some of these may be part-time, others full-time or close to it. Some or many of these folks may be remote, that is the route I’ve taken and I recommend it for the huge access to talent it grants you, at (depending on your location in the world) potentially much lower cost than hiring locally.
 
-![](/media/spiderweb-hub-and-spoke.png)
+![Hub and spoke image with you as the dot at the middle, the circle as your business, the spokes as various roles in your business](/media/spiderweb-hub-and-spoke.png)
 
 You can hire online for almost all of your initial “spoke” roles using the same approach I outlined above for your VA, or potentially through relevant agencies. Others you may prefer to hire as employees, whether they are local or remote; how to do that effectively is a topic for another post. When hiring an employee early on in a bootstrapped company, keep in mind that at least in many European jurisdictions, hiring an employee is a much bigger commitment than hiring a freelancer, as you’ll typically need to give plenty of notice and severance pay, which can be a fairly big risk when your company’s cashflow is still tiny and perhaps not very predictable.
 
@@ -73,7 +73,7 @@ A key approach I recommend to delegate more efficiently at this stage, and in a 
 
 When I started out using SOPs, I used some online process management tools, but in the end I found that a simple Google Spreadsheet for each SOP is simple, cheap and flexible. If it’s a process where you’re never running two copies of the process at once, all you need is a simple spreadsheet similar to the below. You can make everything but the checkbox column protected so that it doesn’t get accidentally modified.
 
-![](/media/spiderweb-sop-example.jpg)
+![Illustration of an example standard operating procedure (SOP) spreadsheet](/media/spiderweb-sop-example.jpg)
 
 > Simplified example of the SOP my VA follows after I’ve finished writing and/or reviewing a blog post on our content calendar.
 
@@ -116,7 +116,7 @@ The _Spiderweb_ is basically about building direct communication between the fol
 6. Let them know what to do if things don’t go according to plan (until the business matures further, this will usually mean checking back in with you).
 7. Trust but verify. You’ve now gotten yourself out of the loop in terms of being the bottleneck, but especially early on you will want to verify that the work is happening, and happening in the right way. As a first step you may request being CCed and informed. Later on you could set up automated check-in emails or weekly status reports rather than being CCed on everything. Up to you. Don’t micromanage, but don’t give up ownership either. Until your business is bigger and you have executives reporting to you, or a valuable enough business to give your staff proper skin in the game through stock or profit sharing, you are the only _owner_ and while your staff will want to do a good job, they are unlikely to care the same way you do.
 
-![](/media/spiderweb-spiderweb.png)
+![Illustration of your business as a hub and spoke model with added connections between roles that make it look more like a spiderweb](/media/spiderweb-spiderweb.png)
 
 > Once you build several bridges between your staff, your _Hub and Spoke_ will start to look more like a _Spiderweb_.
 
