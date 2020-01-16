@@ -7,7 +7,8 @@ canonical_url: ''
 categories: []
 
 ---
-For a while I’ve wanted to write a bit about ideas I’ve developed based on running CrankWheel, a bootstrapped startup, for about five years now. We write a very [sales-focused blog](https://crankwheel.com/blog/) on the CrankWheel site, so it’s not really the right place for these thoughts, so I’ll be posting them here on my personal website. You can [subscribe to updates](https://joisig.substack.com/p/coming-soon) if you’d like to read the rest of the series once published.
+
+I’ve developed some ideas based on running a bootstrapped startup for about five years now, and I want to write blog posts about some of them. We write a very [sales-focused blog](https://crankwheel.com/blog/) on the CrankWheel site, so instead of posting there, I’ll be posting them here on my personal website. You can [subscribe to updates](https://joisig.substack.com/p/coming-soon) if you’d like to read my future stuff.
 
 The first idea I’d like to discuss is what I see as a very efficient (capital and otherwise) approach to building a business, starting as a solo founder. As I have a co-founder in CrankWheel, I haven’t actually gone this exact route, but there was a period a couple of years back in CrankWheel’s history when we shrank it down to just me as the only full-time contributor, where I was essentially at the “Ray” stage that is discussed below and then progressed through the other stages as the business grew again.
 
@@ -15,13 +16,13 @@ Quite a lot of pundits will tell you that when you start a business, you should 
 
 # **Starting point: Dot**
 
-When you’re just starting out with a business idea, I believe one of the most efficient ways to do it is as a solo founder. It’s great to have a co-founder, but for clarity in this post I’ll assume you’re starting solo, and you can use most or all of the approaches even if there are two or more founders rather than one.
+When you’re just starting out with a business idea, I believe one of the most efficient ways to do it is as a solo founder. It can be great to have a co-founder, but for clarity in this post I’ll assume you’re starting solo.
 
-A solo entrepreneur is like a _Dot_ at the heart of the business, working all alone.
+A solo founder is like a _Dot_ at the heart of the business, working all alone.
 
-![Dot representing you at center of circle representing your business](/media/spiderweb-dot.png)
+<img src="/media/spiderweb-dot.png" style="max-height: 35em;" alt="Dot representing you at center of circle representing your business"/>
 
-The challenges of starting solo are that you have nobody to lean on, which can be especially hard from a motivational perspective and sometimes from a mental health perspective. Nobody but you understands the ups and downs and the emotional challenges of building the business, so the people you might lean on for support such as your spouse or friends, while they might listen, don’t fully understand. Other founders get it though, even if they’re not running the same business, so try to make friends with some of those.
+The challenges of starting solo are that you have nobody to lean on, which can be especially hard from a motivational perspective and sometimes from a mental health perspective. Nobody but you understands the ups and downs and the emotional challenges of building the business, so the people you might lean on for support such as your spouse or friends, while they might listen, probably don’t fully understand. Other founders get it though, even if they’re not running the same type of business, so try to make friends with some of them.
 
 Being alone also means there’s nobody else to do anything: Everything that happens in the business, happens because you do it.
 
@@ -31,24 +32,24 @@ This has a very strong focusing effect, driving you to work on the most importan
 
 As soon as you can afford it, it’s worth upgrading to a _Ray_: You’re still at the center of your business, but you’ve got yourself a virtual assistant (VA) helping you with various rote tasks, which leaves you more time to focus on more impactful tasks. Your VA is the first “spoke” in the next model after this, which is _Hub and Spoke_.
 
-![Dot and ray representing you and your virtual assistant, and circle representing your business](/media/spiderweb-ray.png)
+<img src="/media/spiderweb-ray.png" style="max-height: 35em;" alt="Dot and ray representing you and your virtual assistant, and circle representing your business"/>
 
 Having a virtual assistant is especially useful as soon as you start various repetitive sales and/or marketing activities or as soon as you need to provide customer support. Over time, you can train your VA to take over a lot of tasks that you initially perform yourself.
 
 Delegating tasks to your VA is something you should think of as an ongoing, bit-by-bit task, not something you can do all at once. As an example, you might have a progression like this for a task to work through inbound freemium leads for your business:
 
-1. Do it all yourself: Trigger a job to gather all inbound leads for a given period, then manually (yourself) go through each of the leads and decide how to handle.
-2. Do it all yourself with some automation: Still working the leads yourself, automate or semi-automate some parts of how they are handled, e.g. make it a one-click thing to handle a particular type of lead in a particular way, sending them a certain type of welcome email for example.
-3. Initiate the task yourself, but have your VA do 80% of the work: Still triggering lead processing yourself, teach your VA how you would like leads to be pre-processed before you take a look at the 10-20% where your VA is unsure.
-4. Have your VA initiate the task: Next, delegate the triggering to your VA, turning the initiation of the task on its head - instead of you reminding your VA a few times a week to pre-process leads for you, you get a reminder from your VA a few times a week to look at the several leads they were unsure about.
-5. Sharpen the saw: Over time, train your VA further on how to handle more specific types of leads manually, in addition to the semi-automated approaches you had before, further lowering the portion of inbound leads you might need to look at yourself.
+1. **Do it all yourself**: Trigger a job to gather all inbound leads for a given period, then manually (yourself) go through each of the leads and decide how to handle.
+2. **Do it yourself plus automation**: Still working the leads yourself, automate or semi-automate some parts of how they are handled, e.g. make it a one-click thing to handle a particular type of lead in a particular way, sending them a certain type of welcome email for example.
+3. **You initiate, your VA executes**: Still triggering lead processing yourself, teach your VA how you would like leads to be pre-processed before you take a look at the 10-20% where your VA is unsure.
+4. **Have your VA initiate**: Next, delegate the triggering to your VA, turning the initiation of the task on its head - instead of you reminding your VA a few times a week to pre-process leads for you, you get a reminder from your VA a few times a week to look at the several leads they were unsure about.
+5. **Sharpen the saw**: Over time, train your VA further on how to handle more specific types of leads manually, in addition to the semi-automated approaches you had before, further lowering the portion of inbound leads you might need to look at yourself.
 
 This kind of gradual offloading over time of your rote tasks to your VA is something you should continue doing over time. In fact for any task that you’re considering when planning your week, consider whether you can:
 
-* Teach your VA to do it (right away or over time, using an approach such as outlined above).
-* Automate it fully. There’s a balance here; if an automation is easy, it’s likely worthwhile. If it’s hard, you may be better off teaching it to your VA than fully automating it.
-* Delay it; sometimes a task is not urgent and the need to perform it goes away if you just wait a bit.
-* Completely skip it - the ultimate productivity enhancement if the task not being done is an acceptable outcome. The power of saying “no” is a key factor here - a subject for another blog post.
+* **Teach your VA to do it**, either right away or over time, using an approach such as outlined above.
+* **Automate it**. There’s a balance here; if an automation is easy, it’s likely worthwhile. If it’s hard, you may be better off teaching it to your VA rather than fully automating it, or automating part and having your VA do the rest.
+* **Delay it**. Sometimes a task is not urgent, and quite often, the need (or perceived need) to perform it goes away if you just wait a bit.
+* **Completely skip it**. This is the ultimate productivity enhancement if it’s an acceptable outcome for your business that the task does not get done. The power of saying “no” is a key factor here - a subject for another blog post.
 
 One caveat is that before you delegate a task to your VA, it’s best if you’ve already done it yourself often enough to have a good idea of how to do it efficiently and with high quality.
 
@@ -63,7 +64,7 @@ To hire a VA, there are many agencies you could go with, or you could use Upwork
 
 The next step after the “Ray” model is the “Hub and spoke” model. You’re still at the center of everything and everything flows through you, but you’ve got a number of specialists working for you in addition to your generalist VA. Some of these may be part-time, others full-time or close to it. Some or many of these folks may be remote, that is the route I’ve taken and I recommend it for the huge access to talent it grants you, at (depending on your location in the world) potentially much lower cost than hiring locally.
 
-![Hub and spoke image with you as the dot at the middle, the circle as your business, the spokes as various roles in your business](/media/spiderweb-hub-and-spoke.png)
+<img src="/media/spiderweb-hub-and-spoke.png" style="max-height: 35em;" alt="Hub and spoke image with you as the dot at the middle, the circle as your business, the spokes as various roles in your business"/>
 
 You can hire online for almost all of your initial “spoke” roles using the same approach I outlined above for your VA, or potentially through relevant agencies. Others you may prefer to hire as employees, whether they are local or remote; how to do that effectively is a topic for another post. When hiring an employee early on in a bootstrapped company, keep in mind that at least in many European jurisdictions, hiring an employee is a much bigger commitment than hiring a freelancer, as you’ll typically need to give plenty of notice and severance pay, which can be a fairly big risk when your company’s cashflow is still tiny and perhaps not very predictable.
 
@@ -73,7 +74,7 @@ A key approach I recommend to delegate more efficiently at this stage, and in a 
 
 When I started out using SOPs, I used some online process management tools, but in the end I found that a simple Google Spreadsheet for each SOP is simple, cheap and flexible. If it’s a process where you’re never running two copies of the process at once, all you need is a simple spreadsheet similar to the below. You can make everything but the checkbox column protected so that it doesn’t get accidentally modified.
 
-![Illustration of an example standard operating procedure (SOP) spreadsheet](/media/spiderweb-sop-example.jpg)
+<img src="/media/spiderweb-sop-example.jpg" style="max-height: 35em;" alt="Illustration of an example standard operating procedure (SOP) spreadsheet"/>
 
 > Simplified example of the SOP my VA follows after I’ve finished writing and/or reviewing a blog post on our content calendar.
 
@@ -116,7 +117,7 @@ The _Spiderweb_ is basically about building direct communication between the fol
 6. Let them know what to do if things don’t go according to plan (until the business matures further, this will usually mean checking back in with you).
 7. Trust but verify. You’ve now gotten yourself out of the loop in terms of being the bottleneck, but especially early on you will want to verify that the work is happening, and happening in the right way. As a first step you may request being CCed and informed. Later on you could set up automated check-in emails or weekly status reports rather than being CCed on everything. Up to you. Don’t micromanage, but don’t give up ownership either. Until your business is bigger and you have executives reporting to you, or a valuable enough business to give your staff proper skin in the game through stock or profit sharing, you are the only _owner_ and while your staff will want to do a good job, they are unlikely to care the same way you do.
 
-![Illustration of your business as a hub and spoke model with added connections between roles that make it look more like a spiderweb](/media/spiderweb-spiderweb.png)
+<img src="/media/spiderweb-spiderweb.png" style="max-height: 35em;" alt="Illustration of your business as a hub and spoke model with added connections between roles that make it look more like a spiderweb"/>
 
 > Once you build several bridges between your staff, your _Hub and Spoke_ will start to look more like a _Spiderweb_.
 
