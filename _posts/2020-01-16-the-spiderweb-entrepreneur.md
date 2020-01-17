@@ -144,7 +144,7 @@ The _Spiderweb_ model is also where you can start to consider hiring project man
 
 # In summary
 
-Assuming your revenues scale at least a little bit, you can progress quickly from _Dot_ all the way through to _Spiderweb_, and you can run an incredibly well-oiled business machine using this model. It can scale a fair bit, and it can be a lot of fun.
+Assuming you manage to grow your revenues reasonably well, you can progress quickly from _Dot_ all the way through to _Spiderweb_, and you can run an incredibly well-oiled business machine using this model. It can scale a fair bit, and it can be a lot of fun.
 
 However, I wouldn’t recommend staying in this model for much longer than you are forced to. You'll risk burnout, and you also need to scale up to make yourself less indispensable to the business.
 
