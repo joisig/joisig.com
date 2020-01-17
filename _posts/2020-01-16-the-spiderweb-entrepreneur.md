@@ -1,24 +1,23 @@
 ---
 layout: post
 title: The spiderweb entrepreneur
-date: 2020-01-16 00:00:00 +0000
+date: 2020-01-16T00:00:00.000+00:00
 author: joisig
 canonical_url: ''
 categories: []
 
 ---
-
 I’ve developed some ideas based on running a bootstrapped startup for about five years now, and I want to write blog posts about some of them. We write a very [sales-focused blog](https://crankwheel.com/blog/) on the CrankWheel site, so instead of posting there, I’ll be posting them here on my personal website.
 
-This is the first post on this subject. You can [subscribe to updates](https://joisig.substack.com/p/coming-soon) if you’d like to read my future stuff.
+This is my first post on this subject. You can [subscribe to updates](https://joisig.substack.com/p/coming-soon) if you’d like to read my future stuff.
 
-The first idea I’d like to discuss is what I see as a very efficient (capital and otherwise) approach to building a business, starting as a solo founder. As I have a co-founder in CrankWheel, I haven’t actually gone this exact route, but there was a period a couple of years back in CrankWheel’s history when we shrank it down to just me as the only full-time contributor, where I was essentially at the “Ray” stage that is discussed below and then progressed through the other stages as the business grew again.
+The first idea I’d like to discuss is what I see as a very efficient (capital and otherwise) approach to building a business, starting as a solo founder. As I have a co-founder in CrankWheel, I haven’t actually gone this exact route, but I've done most of it as there was a period a couple of years back in CrankWheel’s history when we shrank it down to just me as the only full-time contributor, where I was essentially at the “Ray” stage that is discussed below and then progressed through the other stages as the business grew again.
 
 Quite a lot of pundits will tell you that when you start a business, you should work “on” the business and not “in” the business, i.e. you should run your business immediately in a way where you are not needed for the day-to-day operations. As you’ll see from the below, I don’t subscribe to that philosophy. For a bootstrapped business, I think you need to do both: You need to be **the** key employee of the business at the start, and then over time scramble your way as quickly as you can up to spending more and more and finally most of your time working “on” the business rather than “in” it. I also think the progression I describe below is a fairly structured approach to achieving that.
 
 # **Starting point: Dot**
 
-When you’re just starting out with a business idea, I believe one of the most efficient ways to do it is as a solo founder. It can be great to have a co-founder, but for clarity in this post I’ll assume you’re starting solo.
+When you’re just starting out with a business idea, I think one of the most efficient ways to do it is as a solo founder. It can be great to have a co-founder, but for clarity in this post I’ll assume you’re starting solo.
 
 A solo founder is like a _Dot_ at the heart of the business, working all alone.
 
@@ -32,13 +31,15 @@ This has a very strong focusing effect, driving you to work on the most importan
 
 # **Upgrade #1: Ray**
 
-As soon as you can afford it, it’s worth upgrading to a _Ray_: You’re still at the center of your business, but you’ve got yourself a virtual assistant (VA) helping you with various rote tasks, which leaves you more time to focus on more impactful tasks. Your VA is the first “spoke” in the next model after this, which is _Hub and Spoke_.
+As soon as you can afford it, it’s worth upgrading to a _Ray_: You’re still at the center of your business, but you’ve got yourself a virtual assistant (VA) helping you with various rote tasks, which leaves you more time to focus on more impactful tasks.
 
 <img src="/media/spiderweb-ray.png" style="max-height: 35em;" alt="Dot and ray representing you and your virtual assistant, and circle representing your business"/>
 
 Having a virtual assistant is especially useful as soon as you start various repetitive sales and/or marketing activities or as soon as you need to provide customer support. Over time, you can train your VA to take over a lot of tasks that you initially perform yourself.
 
-Delegating tasks to your VA is something you should think of as an ongoing, bit-by-bit task, not something you can do all at once. As an example, you might have a progression like this for a task to work through inbound freemium leads for your business:
+## Delegating to your VA
+
+Delegating tasks to your VA is something you should think of as a continuous task you chip away at every week, not something you can do all at once. As an example, you might have a progression like this for a task to work through inbound freemium leads for your business:
 
 1. **Do it all yourself**: Trigger a job to gather all inbound leads for a given period, then manually (yourself) go through each of the leads and decide how to handle.
 2. **Do it yourself plus automation**: Still working the leads yourself, automate or semi-automate some parts of how they are handled, e.g. make it a one-click thing to handle a particular type of lead in a particular way, sending them a certain type of welcome email for example.
@@ -55,22 +56,26 @@ This kind of gradual offloading over time of your rote tasks to your VA is somet
 
 One caveat is that before you delegate a task to your VA, it’s best if you’ve already done it yourself often enough to have a good idea of how to do it efficiently and with high quality.
 
-To hire a VA, there are many agencies you could go with, or you could use Upwork to hire directly, this is what I did. A VA is a tricky hire where you need to build quite a lot of trust over time, and work together pretty closely, so you need to hire carefully and be willing to fire fast if it turns out the person you hire isn’t a great fit for you. My recommendations for maximizing the chance they are a good fit before hiring them are:
+## How to hire a VA
 
-1. After posting your job and receiving hopefully dozens of candidates, shortlist 6-12 of them based on their cover letter, answers to questions you asked for answers to from candidates, past experience, ratings on Upwork (or other job board you’re using) and so on.
-2. Interview the short-list “in person" i.e. via a Skype or Zoom or similar video call. This call is where you get to see their language skills in action, which to me is one of the most important aspects of having a good relationship with a VA, you need to both fluently speak a common language (e.g. English) well enough that there are no misunderstandings, and if your VA is communicating on your behalf and/or on behalf of the company, it’s very important that they are proficient enough in the company’s operating language to do so. This is also where you get a feel for personality fit and culture fit. Finally, the interview lets you set expectations for what the rest of the hiring process will look like, and offer them their starter project - read on below.
-3. For the 3-5 candidates you think are the best based on interviews, give each of them a starter project, fixed scope and fixed pay, ideally all starter projects identical so you have a direct comparison. You should get very specific with the project goals, this lets you see if they are precise and read your instructions properly, but you should also leave some parts of the project specification open to interpretation. The best candidates will surprise you by overdelivering on the vague parts, e.g. in the way they report back to you or format data or other ways.
-4. If you are happy with one of the candidates after the starter project, hire them in an ongoing by-the-hour project. Be ready to fire fast if things don’t look right within the first couple of weeks. The most effective relationship with a VA is one where you build trust to a level where they get to have access to a lot of your systems and data, very likely including your email, and therefore it is imperative that you feel comfortable with your VA and that they exhibit trustworthiness and principles from day one.
+To hire a VA, there are many agencies you could go with, or you could use an online freelancer marketplace like Upwork to hire directly, this is what I did. A VA is a tricky hire where you need to build quite a lot of trust over time, and work together pretty closely, so you need to hire carefully and be willing to fire fast if it turns out the person you hire isn’t a great fit for you. My recommendations for maximizing the chance they are a good fit before hiring them are:
 
-# **Upgrade #2: Hub and spoke**
+1. After posting your job and receiving hopefully dozens of candidates, shortlist 6-12 of them based on their cover letter, answers to questions you asked for answers to from candidates, past experience, ratings on Upwork (or other job board you’re using) and so on. I should also mention that in my experience, a job success score on Upwork of 95%+ is a very strong indicator of reliability, whereas the 1-5 star rating is much less indicative. The job success score is not always shown, and freelancers without one can be great.
+2. Interview the short-list “in person" i.e. via a Skype or Zoom or similar video call. This call is where you get to see their language skills in action, which to me is one of the most important aspects of having a good relationship with a VA, you need to both fluently speak a common language (e.g. English) well enough that there are no misunderstandings, and if your VA is communicating on your behalf and/or on behalf of the company, it’s very important that they are proficient enough in the company’s operating language to do so. This is also where you get a feel for personality fit and culture fit. Finally, the interview lets you set expectations for what the rest of the hiring process will look like.
+3. For the 3-5 candidates you think are the best based on interviews, offer each of them a starter project, fixed scope and fixed pay, ideally all starter projects identical so you have a direct comparison. You should get very specific with the project goals, this lets you see if they are precise and read your instructions properly. You should also make sure you cover as many of the relevant skills as possible; for example if you're hiring a programmer, it's great if they know the programming language and environment that you're working in, but whether they also know how to work with GitHub and how well they respond to receiving criticism in code reviews also matters a lot. Although my primary recommendation is to get pretty specific in your project goals, I also suggest leaving some parts of the project open to interpretation. The best candidates may delight you by overdelivering on the vague parts.
+4. If you are happy with one of the candidates after the starter project, hire them in an ongoing by-the-hour project - if not, maybe give some more of your shortlist the starter project, or advertise again or in another marketplace. Don't settle. Be ready to fire fast if things don’t look right within the first couple of weeks. The most effective relationship with a VA is one where you build trust to a level where they get to have access to a lot of your systems and data, very likely including your email, and therefore it is imperative that you feel comfortable with your VA and that they exhibit trustworthiness and strong principles from day one.
 
-The next step after the “Ray” model is the “Hub and spoke” model. You’re still at the center of everything and everything flows through you, but you’ve got a number of specialists working for you in addition to your generalist VA. Some of these may be part-time, others full-time or close to it. Some or many of these folks may be remote, that is the route I’ve taken and I recommend it for the huge access to talent it grants you, at (depending on your location in the world) potentially much lower cost than hiring locally.
+# **Upgrade #2: Hub-and-Spoke**
 
-<img src="/media/spiderweb-hub-and-spoke.png" style="max-height: 35em;" alt="Hub and spoke image with you as the dot at the middle, the circle as your business, the spokes as various roles in your business"/>
+The next step after the “Ray” model is the Hub-and-Spoke model. You’re still at the center of everything and everything flows through you, but you’ve got a number of specialists working for you in addition to your generalist VA. Some of these may be part-time, others full-time or close to it. Some or many of these folks may be remote, that is the route I’ve taken and I recommend it for the huge access to talent it grants you, at (depending on your location in the world) potentially much lower cost than hiring locally.
+
+<img src="/media/spiderweb-hub-and-spoke.png" style="max-height: 35em;" alt="Hub-and-spoke image with you as the dot at the middle, the circle as your business, the spokes as various roles in your business"/>
 
 You can hire online for almost all of your initial “spoke” roles using the same approach I outlined above for your VA, or potentially through relevant agencies. Others you may prefer to hire as employees, whether they are local or remote; how to do that effectively is a topic for another post. When hiring an employee early on in a bootstrapped company, keep in mind that at least in many European jurisdictions, hiring an employee is a much bigger commitment than hiring a freelancer, as you’ll typically need to give plenty of notice and severance pay, which can be a fairly big risk when your company’s cashflow is still tiny and perhaps not very predictable.
 
-Once you get to the hub and spoke model, you need to become even better at delegating, and because you may need to scale up one part of your business (e.g., adding more salespeople, or adding another front-end programmer), you may need to train different people multiple times for the same or similar job.
+## Next-level delegating: SOPs
+
+Once you get to the Hub-and-Spoke model, you need to become even better at delegating, and because you may need to scale up one part of your business (e.g., adding more salespeople, or adding another front-end programmer), you may need to train different people multiple times for the same or similar job.
 
 A key approach I recommend to delegate more efficiently at this stage, and in a more repeatable manner, is the use of procedure checklists or “standard operating procedures” (SOPs) coupled with screen capture videos that show how to perform a task.
 
@@ -87,6 +92,8 @@ Recording a screencast video of yourself performing each of the tasks from the S
 What you end up with is a checklist that a brand new freelancer or employee could follow, as the detailed training material for each task on the checklist is linked to right there from the SOP document.
 
 Some roles you may need are not routine enough for SOPs to cover everything. A good example is product development. For these you may have SOPs for some important things such as your QA process, your release process, and best practices, but a lot of the work will by its nature be new work. For this type of work it’s important to develop ways to communicate intent and design in ways that are well-understood by everybody involved, for example a reasonably-standardized format for specification documents and a reasonably-standardized approach for communicating things such as user experience, technical architecture and more. Your main focus in order to prevent yourself from becoming a bottleneck again should be to work at the level of specifications and mockups, strategic plans and project plans as much as possible. I won’t dive deeper into that for now.
+
+## Example specialist roles
 
 There are a lot of specialist roles you can consider hiring for in the _Hub and Spoke_ model. In some cases, one person can fill multiple roles, in other cases it’s best to hire the most focused specialist you can. Some ideas to consider are:
 
@@ -109,7 +116,7 @@ There are a lot of specialist roles you can consider hiring for in the _Hub and 
 
 While the _Hub and Spoke_ model is quite efficient, you can become a bottleneck rather quickly since everything is passing through you. Therefore, as quickly as you can after getting comfortable in that model, you should upgrade to the _Spiderweb_, which reduces that bottleneck pretty quickly.
 
-The _Spiderweb_ is basically about building direct communication between the folks who are the “spokes” in your _Hub and Spoke_ model; as you build several of these the diagram of your business will start to resemble . There are a couple of simple steps to it:
+The _Spiderweb_ is basically about building direct communication between the folks who are the “spokes” in your _Hub and Spoke_ model. As you build several of these bridges the diagram of your business will start to resemble a spiderweb. There are a few simple steps to it:
 
 1. Identify a potential direct collaboration between members of your staff.
 2. Make sure that the SOPs you want them to collaborate on are initiated not by you, but by one of them, possibly on a set schedule or possibly as a reaction to some outside trigger. If you leave yourself initiating each particular instance of collaboration, you haven’t really taken yourself out of the loop.
@@ -121,9 +128,11 @@ The _Spiderweb_ is basically about building direct communication between the fol
 
 <img src="/media/spiderweb-spiderweb.png" style="max-height: 35em;" alt="Illustration of your business as a hub and spoke model with added connections between roles that make it look more like a spiderweb"/>
 
-> Once you build several bridges between your staff, your _Hub and Spoke_ will start to look more like a _Spiderweb_.
+> Once you build several bridges between your staff, your _Hub and Spoke_ will start to look more like a spiderweb.
 
-Some examples of direct collaborations you could build in this model, building on the example “spoke” roles used in the previous model:
+## Example collaborations
+
+Some examples of direct collaborations you could build in this model, continuing with the “spoke” roles we used as examples in the previous model:
 
 1. Your VA might have a weekly task to perform some standardized prospecting to generate a set of 50 outbound leads each week, that they feed to your salesperson to validate before those leads are put into an outreach sequence. Your salesperson takes over from there.
 2. Your content writer might write some or most of your blog posts, and deliver them as drafts in Google Docs, with your VA taking those drafts and bringing them over to your blog CMS system for publication, adding an illustration created by your graphic artist, all of this orchestrated from your content calendar.
@@ -133,4 +142,12 @@ Some examples of direct collaborations you could build in this model, building o
 
 The _Spiderweb_ model is also where you can start to consider hiring project managers over certain aspects of the business; not people managers necessarily, but project managers who orchestrate more complex collaboration between multiple team members. Good examples of this in a software business could be hiring a senior developer with some team leading experience, and having them act as project manager for the product team in addition to development duties, or hiring a multi-talented strategic thinker as a marketer, and having them coordinate collaboration between all the specialists involved in marketing.
 
-You can run an incredibly well-oiled business machine using the _Spiderweb_ model, and it can be scaled a fair bit, but I wouldn’t recommend staying in this model for much longer than you are forced to. When you have enough profit, or if you decide to take in significant funding, it’s time to think about promoting some of your project managers to executives or hiring outside executives into key roles, as this will allow the business to scale much further. When you do, teach them the progression to the _Spiderweb_ model - it can be similarly efficient for VPs starting with a small department as it is for owners bootstrapping a new company.
+# In summary
+
+Assuming your revenues scale at least a little bit, you can progress quickly from _Dot_ all the way through to _Spiderweb_, and you can run an incredibly well-oiled business machine using this model. It can scale a fair bit, and it can be a lot of fun.
+
+However, I wouldn’t recommend staying in this model for much longer than you are forced to. You'll risk burnout, and you also need to scale up to make yourself less indispensable to the business.
+
+When you have enough profit, or if you decide to take in significant funding, it’s time to think about promoting some of your project managers to executives or hiring outside executives into key roles, as this will allow the business to scale much further.
+
+Once you have your first executives, teach them the progression to the _Spiderweb_ model - it can be similarly efficient for VPs starting with a small department as it is for owners bootstrapping a new company.
