@@ -76,7 +76,7 @@ A key approach I recommend to delegate more efficiently at this stage, and in a 
 
 When I started out using SOPs, I used some online process management tools, but in the end I found that a simple Google Spreadsheet for each SOP is simple, cheap and flexible. If it’s a process where you’re never running two copies of the process at once, all you need is a simple spreadsheet similar to the below. You can make everything but the checkbox column protected so that it doesn’t get accidentally modified.
 
-<img src="/media/spiderweb-sop-example.jpg" style="max-height: 35em;" alt="Illustration of an example standard operating procedure (SOP) spreadsheet"/>
+<img src="/media/spiderweb-sop-example.png" style="max-height: 35em;" alt="Illustration of an example standard operating procedure (SOP) spreadsheet"/>
 
 > Simplified example of the SOP my VA follows after I’ve finished writing and/or reviewing a blog post on our content calendar.
 
