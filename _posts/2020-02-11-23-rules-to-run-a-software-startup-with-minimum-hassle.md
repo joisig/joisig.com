@@ -3,7 +3,7 @@ layout: post
 title: 23 rules to run a software startup with minimum hassle
 date: 2020-02-11 20:35:00 +0000
 author: joisig
-permalink: rules-software-startup-minimum-hassle
+permalink: "/rules-software-startup-minimum-hassle"
 canonical_url: ''
 categories: []
 
