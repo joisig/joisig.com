@@ -78,7 +78,7 @@ Save yourself the hassle. Use a database you (or your technical team) are famili
 
 If you’re dependent on a single vendor, I can almost guarantee this will be painful over time. App platforms like the Apple App Store, Google Play, and the Chrome Web Store, and e-commerce platforms like Shopify and Magento, or CMS platforms like WordPress are all examples of this.
 
-While there can be benefits to building on a single-vendor platform (see rule TODO below), it also guarantees that once every few months you will be scrambling due to some change or another that the platform vendor is enforcing, and sometimes it won’t just be a scramble to keep up, it can litterally be an existential crisis for your business.
+While there can be benefits to building on a single-vendor platform such as its often built-in marketplace, it also guarantees that once every few months you will be scrambling due to some change or another that the platform vendor is enforcing, and sometimes it won’t just be a scramble to keep up, it can literally be an existential crisis for your business.
 
 You can avoid this hassle by building on top of long-term stable, multi-vendor platforms like the web, or Linux.
 
