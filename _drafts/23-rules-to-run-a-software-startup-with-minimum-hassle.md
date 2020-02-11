@@ -22,7 +22,7 @@ Using a SaaS model means your revenues will be fairly predictable. In a nutshell
 
 Running a business with revenues that will usually grow and very rarely drop more than a couple of percent between months is about 100x less stressful than running a business where your revenues could range from a big fat zero to some huge windfall.
 
-TODO: Illustration
+![Charts illustrating typical month-by-month revenue for a SaaS business versus a business that sells transactionally.](/media/hasslerules-saas-vs-transactional.png)
 
 ## **Rule #2: Stick everybody on a month-by-month plan**
 
@@ -52,7 +52,7 @@ Save yourself the hassle around billing - just pay a couple of extra percentage 
 
 Operating a freemium model means your sales pipeline will be very long, as users typically have to build up usage over time before exceeding freemium limits, before you even have a conversation about them purchasing. This makes your feedback loop from changing things to improve conversion at various stages of the pipeline to seeing the total effect on overall conversion very long, and this makes it harder to optimize. It also will require more complex systems to track.
 
-TODO: Illustration
+![Charts illustrating typical month-by-month revenue for a SaaS business versus a business that sells transactionally.](/media/hasslerules-no-freemium.png)
 
 You’ll also end up having a lot of customer support cost related to your freemium users. I love all our users equally and we love providing excellent service to all of them, but there’s an unavoidable customer support burden from freemium that can increase your stress levels, especially when you’re bootstrapping and your team is still tiny.
 
