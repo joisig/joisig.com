@@ -6,7 +6,7 @@ author: joisig
 permalink: "/rules-software-startup-minimum-hassle"
 canonical_url: ''
 categories: []
-
+image: /media/hasslerules-boring-tech.jpg
 ---
 Over the last 5 years of bootstrapping, I’ve tried a lot of things, and discovered there are many ways to create hassle for yourself that wastes time and energy and distracts you from building value in your business. This is my second post on lessons learned from bootstrapping; you can [subscribe to updates](https://joisig.substack.com/p/coming-soon) to this page if you want to continue following along.
 
