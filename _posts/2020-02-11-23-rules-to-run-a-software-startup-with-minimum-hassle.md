@@ -39,7 +39,7 @@ Get your customers to pay up-front, by credit card, and using only a short list 
 
 ## Rule #4: In fact, completely outsource billing
 
-At [CrankWheel](https://crankwheel.com/), we use the Braintree payment gateway and the Chargify subscription management platform on top of that. This is a decent solution, but if I was starting again today, I would go with Paddle or a similar software “reseller” (in name only) that takes care of everything related to billing and sales tax/value added tax and just sends us a lump sum every month. Yes they take a larger percentage than if you go straight with a payment gateway like Stripe or Braintree, but it’s a very simple way to outsource and simplify. You get:
+At [CrankWheel](https://crankwheel.com/), we use the Braintree payment gateway and the Chargify subscription management platform on top of that. This is a decent solution, but if I was starting again today, I would go with [Paddle](https://paddle.com/) or a similar software “reseller” (in name only) that takes care of everything related to billing and sales tax/value added tax and just sends us a lump sum every month. Yes they take a larger percentage than if you go straight with a payment gateway like Stripe or Braintree, but it’s a very simple way to outsource and simplify. You get:
 
 * One lump sum every month means much simpler bookkeeping on your end;
 * No customer support on your end for billing issues;
