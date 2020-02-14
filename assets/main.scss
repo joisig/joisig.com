@@ -3,3 +3,11 @@
 ---
 
 @import "minima";
+
+.signup-mole {
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    padding: 0.4em 1em 0.4em 1em;
+    background-color: $grey-color-light;
+}
