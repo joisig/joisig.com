@@ -52,7 +52,7 @@ Save yourself the hassle around billing - just pay a couple of extra percentage 
 
 Operating a freemium model means your sales pipeline will be very long, as users typically have to build up usage over time before exceeding freemium limits, before you even have a conversation about them purchasing. This makes your feedback loop from changing things to improve conversion at various stages of the pipeline to seeing the total effect on overall conversion very long, and this makes it harder to optimize. It also will require more complex systems to track.
 
-![Charts illustrating typical month-by-month revenue for a SaaS business versus a business that sells transactionally.](/media/hasslerules-no-freemium.png)
+<p align="center"><img src="/media/hasslerules-no-freemium.png" style="max-height: 20em;" alt="Illustration, 'no freemium'."/></p>
 
 You’ll also end up having a lot of customer support cost related to your freemium users. I love all our users equally and we love providing excellent service to all of them, but there’s an unavoidable customer support burden from freemium that can increase your stress levels, especially when you’re bootstrapping and your team is still tiny.
 
@@ -71,6 +71,8 @@ Save yourself the hassle. Keep things simple, and make the most reasonable decis
 ## Rule #7: Choose simple, boring technology
 
 Almost by definition, the goal of building a bootstrapped startup is to create a viable business. You might have a secondary goal of learning how to do so along the way - that’s all good. But don’t also make it a goal to learn fancy new technology framework along the way, unless there is no other way to build your intended solution - that adds significant, avoidable technical risk.
+
+![Use simple, boring technlogy](/media/hasslerules-boring-tech.jpg)
 
 Save yourself the hassle. Use a database you (or your technical team) are familiar with. Choose a programming language you understand well. Use a framework you already used. Focus the new, risky stuff in your startup on what you’re building that’s actually new.
 
@@ -113,6 +115,8 @@ Trust me: Switching accountants is a painful process. Do everything you can to a
 ## Rule #14: Don’t take in any investors
 
 Investors will want a seat on the board, and very often also some special rights or preferences in your company, and once they’re on board you can’t ignore them, and you shouldn’t. They will put a lot of pressure on you to grow fast, very often faster than may be compatible with your well-being, mental health, work/life balance and ability to keep finding your work fun. This is especially true if you take in VC money; their timescales are aligned with their fund lifetimes, and they typically only have 5 years until they need you to either IPO or be acquired. Their fund structure means they aren’t (and can’t be) interested in a company that pays dividends, or building a privately-held business for the long term.
+
+<p align="center"><img src="/media/hasslerules-no-investment.png" style="max-height: 20em;" alt="Don't take the money!"/></p>
 
 Taking in investors and becoming addicted to raising that next round of funding is also one of the most major distractions you can have from actually building value in your business. Ask any founder who’s gone through fundraising, and they will tell you it takes away all of their focus for multiple months for each round.
 
@@ -181,6 +185,8 @@ Ignore all of these. As a startup founder and leader of your team, you need to m
 **_I’ve broken almost every one of the rules above!_**
 
 Not only that, I continue to break many of them on a regular basis, when I think it makes sense for my business. CrankWheel has fantastic partners, we do lots of conferences, we accept annual payments and invoice billing, and we dabble in more marketing channels than maybe we should.
+
+<p align="center"><img src="/media/hasslerules-confession.jpg" style="max-height: 30em;" alt="Oh no!"/></p>
 
 **The rules are not meant as absolute rules,** but as food for thought: For you to think about the tradeoffs, of how and why there will be additional hassle and distraction from your core activities, if you decide to “break” one of the “rules”.
 
