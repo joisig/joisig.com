@@ -190,7 +190,7 @@ Ignore all such contact. As a startup founder and leader of your team, you need 
 
 **_I’ve broken almost every one of the rules above!_**
 
-Not only that, I continue to break many of them on a regular basis, when I decide it makes sense for my business. CrankWheel has fantastic partners, we do lots of conferences, we accept annual payments and invoice billing, and we dabble in more marketing channels than maybe we should. In the past, we've taken grants, done big launches, and more.
+Not only that, I continue to break many of them on a regular basis, when I decide it makes sense for my business. CrankWheel has fantastic partners, we do lots of conferences, we accept annual payments and invoice billing, we're a freemium product fairly reliant on one vendor's marketplace (the Chrome Web Store) and we dabble in more marketing channels than maybe we should. In the past, we've taken grants, done big launches, and more.
 
 <p align="center"><img src="/media/hasslerules-confession.jpg" style="max-height: 30em;" alt="Oh no!"/></p>
 
