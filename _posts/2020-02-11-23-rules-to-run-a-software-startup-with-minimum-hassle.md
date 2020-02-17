@@ -136,11 +136,15 @@ The other problem with partnerships is that they most often remove you one step 
 
 ## Rule #17: No patents
 
-For small companies, patents are unlikely to be of any value unless you hope to get acquired by one of the huge tech companies one day. Filing for patents is a fair amount of effort on your behalf, a big distraction when you’re a small team, and it costs a lot of money. There is not just the initial cost of filing but there can be several occasions where you need an additional outlay of multiple thousands of dollars to continue prosecuting the patent. Even then there's no guarantee you it will be granted.
+For small companies, patents are unlikely to be of high value unless you hope to get acquired by one of the huge tech companies one day. Filing for patents is a fair amount of effort on your behalf, a big distraction when you’re a small team, and it costs a lot of money. There is not just the initial cost of filing but there can be several occasions where you need an additional outlay of multiple thousands of dollars to continue prosecuting the patent. Even then there's no guarantee you it will be granted.
 
-Let’s say you get a patent and BigCo starts infringing it. They will have 1000x more legal resources than you do, so you have no chance of suing them. Conversely, let’s say SmallCo infringes on your patent. You might have a chance but the risk you won’t win won’t be worth the legal costs. Finally, let’s say OtherCo tries to sue _you_ due to infringing their patent. Having documented prior art related to the patent (e.g. in your source code repository or as dated documents in Google Docs or similar) is likely to be as good a defense as having filed a patent at some point. I’ll add a standard “I am not a lawyer” disclaimer, so don’t blame me if you take my advice and I’m wrong.
+Let’s say you get a patent and BigCo starts infringing it. They will have 1000x more legal resources than you do, so you have no chance of suing them. Conversely, let’s say SmallCo infringes on your patent. You might have a chance but the risk you won’t win won’t be worth the legal costs.
 
-Save yourself the hassle and skip filing patents.
+The one situation where the patent could be worth something (apart from an acquisition) is when OtherCo tries to sue _you_ due to infringing their patent. You can try to keep on hand well-documented prior art (with dates validated by some 3rd party) but since most jurisdictions now have a firist-to-file policy this might not help very much. You need to balance this possibility against the perceived risk of being sued.
+
+I’ll add a standard “I am not a lawyer” disclaimer, so don’t blame me if you take my advice and I’m wrong.
+
+You can save yourself a fair bit of hassle by not filing patents at all. Think about whether this is right for you.
 
 ## Rule #18: No acquisition talks
 
