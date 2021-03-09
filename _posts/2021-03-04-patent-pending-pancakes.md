@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Icelandic Patent Pending Pancakes
+title: Icelandic patent pending pancakes
 description: Here is the best recipe for Icelandic pancakes that I've found.
 date: 2021-03-04 14:31:00 +0000
 author: joisig
@@ -13,7 +13,7 @@ Here is the best recipe for Icelandic pancakes that I've found.
 
 ## This patent is public domain!
 
-Most Icelandic pancake recipes are virtually identical, but the devil is in the details. The recipe I use is a slightly modified version of [this one by Eva Laufey Kjaran](https://evalaufeykjaran.is/islenskar-ponnukokur-me-sultu-og-rjoma/) (I use a bit more butter). It tastes great and is very unlikely to stick. I'm publishing my variation in English so Icelandophiles worldwide can benefit.
+Most Icelandic pancake recipes are virtually identical, but the devil is in the details. The recipe I use is a slightly modified version of [this one by Eva Laufey Kjaran](https://evalaufeykjaran.is/islenskar-ponnukokur-me-sultu-og-rjoma/) (I use a bit more butter). It tastes great and is very unlikely to stick to the pan. I'm publishing my variation in English so Icelandophiles worldwide can benefit.
 
 ## Ingredients:
 *	3 dl wheat
