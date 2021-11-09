@@ -8,7 +8,6 @@ canonical_url: https://medium.com/authority-magazine/preparing-for-the-future-of
 comments: true
 categories:
   - future
-  - work
 ---
 
 I was [interviewed](https://medium.com/authority-magazine/preparing-for-the-future-of-work-j%C3%B3i-sigurdsson-of-crankwheel-on-the-top-five-trends-to-watch-in-eb8fac77c055) recently by Phil La Duke of Authority Magazine, on the top 5 trends to watch out for in the future of work. I thought I'd republish the interview here as it's an interesting topic to me. All questions (in bold) are Phil's; all responses are mine. My colleague Birgir Már Daníelsson reviewed a draft of the interview and provided insightful input, for which I am thankful.
